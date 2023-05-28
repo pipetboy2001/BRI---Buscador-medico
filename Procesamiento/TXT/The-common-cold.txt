@@ -1,0 +1,798 @@
+For personal use. Only reproduce with permission from The Lancet Publishing Group.SEMINAR
+“I love the doctors—they are dears; 
+But must they spend such years and years Investigating such a lot Of illnesses which no one’s got, When everybody, young and old, Is frantic with the common cold? And I will eat my only hat If they know anything of that!”
+1
+The common cold is a conventional term for a mild
+upper respiratory illness, the hallmark symptoms of whichare nasal stuffiness and discharge, sneezing, sore throat,and cough. Although the term tends to imply that there isa single cause for the illness, the common cold is actually a
+heterogeneous group of diseases caused by numerous
+viruses that belong to several different families. Thecommon cold is usually a self-limited illness confined tothe upper respiratory tract. However, in some patients theviral infection spreads to adjacent organs, resulting indifferent clinical manifestations, and, occasionally, coldspredispose to bacterial complications.
+Despite the usually benign nature of the illness, the
+common cold is an enormous economic burden on society
+in terms of visits to doctors and other health-careproviders, treatments, and absences from work, school, orday care. Every year, in the USA, about 25 million peoplevisit their family doctors with uncomplicated upperrespiratory infections,
+2and the common cold syndrome
+results in about 20 million days of absence from work and22 million days of absence from school.
+3
+Cause
+Our knowledge about the cause of the common cold islargely derived from extensive family and communityfollow-up studies undertaken between the 1960s and the
+Lancet 2003; 361: 51–59
+Department of Paediatrics, Turku University Hospital, Turku,
+Finland (T Heikkinen MD); and Department of Medicine, Division of
+Infectious Diseases, Helsinki University Central Hospital, Helsinki
+(A Järvinen MD)
+Correspondence to: Dr Terho Heikkinen, Department of Paediatrics,
+Turku University Hospital, FIN-20520 Turku, Finland(e-mail: terho.heikkinen@utu.fi)1980s.4–6Intensive research into the cause of respiratory
+illnesses during the 1950s and 1960s led to the discoveryof adenovirus, parainfluenza virus, rhinovirus, respiratorysyncytial virus (RSV), enterovirus, and coronavirus, inaddition to the influenza viruses that had been identified
+earlier (figure 1). However, because during that era the
+techniques of viral detection were limited to virusisolation, the viral cause could be proven in only about25% of patients with respiratory infections.
+7
+Improvements in viral detection techniques during thepast two decades, including various viral antigen detectionmethods and particularly the advent of PCR-based assays,have substantially increased the rates of viral detection inclinical specimens.
+8,9
+The relative proportions of different viruses in the cause
+of the common cold vary dependent on several factors,such as age, season, and viral sampling and detectionmethods. However, rhinoviruses have been consistentlyfound to be the most common cause in all age groups,
+irrespective of the viral detection techniques used
+(panel).
+8–12Yearly, rhinoviruses account for about 30–50%
+of all respiratory illnesses,6,9but during the autumn peak
+season these viruses can cause up to 80% of all upperrespiratory infections.
+8More than 100 different serotypes
+of rhinoviruses have been identified, the relativeprevalences of which seem to vary between differentgeographical areas and also over the course of time.
+10
+Although scarce, data are available on the role of
+coronaviruses as a cause of the common cold. Theseviruses are found in 7–18% of adults with upperrespiratory infections.
+9,13,14Parainfluenza viruses, RSV,The common cold
+Terho Heikkinen, Asko JärvinenSeminar
+THE LANCET • Vol 361 • January 4, 2003 • www.thelancet.com 51Despite great advances in medicine, the common cold continues to be a great burden on society in terms of human
+suffering and economic losses. Of the several viruses that cause the disease, the role of rhinoviruses is mostprominent. About a quarter of all colds are still without proven cause, and the recent discovery of humanmetapneumovirus suggests that other viruses could remain undiscovered. Research into the inflammatorymechanisms of the common cold has elucidated the complexity of the virus-host relation. Increasing evidence is also
+available for the central role of viruses in predisposing to complications. New antivirals for the treatment of colds are
+being developed, but optimum use of these agents would require rapid detection of the specific virus causing theinfection. Although vaccines against many respiratory viruses could also become available, the ultimate prevention of
+the common cold seems to remain a distant aim.
+Search strategy 
+The data for this seminar were identified by computer-aided
+searches of PubMed and Cochrane Library databases, usingkeywords relevant to the different sections. We also reviewedthe journal reference lists and standard textbooks and usedour existing knowledge of the primary publications in this areaand new data presented at international scientific meetings.We then selected reports that, in our understanding, havecontributed substantially to the current knowledge of variousaspects of the common cold, and that also have potential forfurther reading.For personal use. Only reproduce with permission from The Lancet Publishing Group.adenoviruses, and enteroviruses all account for minor
+proportions of the common cold syndrome, but therange of illness caused by each of these viruses alsoincludes other manifestations that can be more typical tothese viruses.
+10,12Influenza is often regarded as a disease
+entity separate from the common cold. However, theclinical presentation of influenza ranges from anasymptomatic infection to severe illness and it thereforeoverlaps with the common cold. Mild instances of
+streptococcal pharyngitis are clinically indistinguishable
+from viral pharyngitis and can be misclassified as colds.
+Despite the availability of sophisticated diagnostic
+methods, about 20–30% of colds remain without aproven viral cause,
+6,9probably due in part to
+suboptimum methods used in the collection,transportation, and assay of clinical specimens, resultingin underdetection of viruses known to exist. However,many colds could also be caused by infectious agents yet
+to be identified. This explanation gained much support
+after the recent discovery of a new virus in youngchildren with respiratory infections.15The relative effect of
+this virus, tentatively named human metapneumovirus, bycomparison with other respiratory viruses is stillundetermined. Findings of serological studies
+15indicate
+that the virus has been circulating in human beings for atleast 50 years, and by the age of 5 years virtually allchildren in the Netherlands are infected by it. Reports
+16,17
+from other countries suggest that human metapneu-movirus has a worldwide distribution.
+Two or more viruses are found simultaneously in about
+5% of patients with colds.
+18However, the rate of dual viral
+infection increases proportionally with the number ofdifferent diagnostic methods used,
+18and whether or not all
+of these cases really represent simultaneous infections bytwo viruses is unclear. Positive findings by PCR, forinstance, do not require the presence of live viruses, andviral genomic materials can be detected in patients long
+after the subsidence of clinical symptoms.
+19,20
+Epidemiology
+The occurrence of the common cold shows clear
+seasonality. In temperate regions of the northernhemisphere, the frequency of respiratory infectionsincreases rapidly in the autumn, remains fairly highthroughout the winter, and decreases again in the spring.
+In tropical areas, most colds arise during the rainy season.
+The incidence of upper respiratory infections is inverselyproportional to age (figure 2). On average, the youngestchildren have 6–8 and adults 2–4 colds per year.
+5,7During
+the first years of life, boys seem to have more respiratoryinfections than girls, but this difference is reversed later inlife.
+5Women who work outside the home have fewer
+infections that those who do not, which might beexplained by greater exposure to children in those whostay at home.
+6Day-care attendance is another major riskSEMINAR
+52 THE LANCET • Vol 361 • January 4, 2003 • www.thelancet.comViral cause of the common cold6,9,12
+Virus Estimated annual proportion 
+of cases
+Rhinoviruses 30–50%
+Coronaviruses 10–15%Influenza viruses 5–15%Respiratory syncytial virus 5%Parainfluenza viruses 5%Adenoviruses <5%Enteroviruses <5%Metapneumovirus UnknownUnknown 20–30%Figure 1: Timeline of discovery of the common respiratory viruses
+Transmission electron micrograph of three adenovirus particles shown in background.
+Science  Photo LibraryRights were not granted to include this image in electronic media.
+Please refer to the printed journal.For personal use. Only reproduce with permission from The Lancet Publishing Group.factor for respiratory illnesses in children, and the
+frequency of colds increases with the number of childrenin the group.
+21–23However, frequent infections in the
+preschool years could lower the frequency of the commoncold during school years.
+23Some genetic factors might also
+affect an individual’s susceptibility to respiratoryinfections, but any potential mechanisms remain largelyunidentified.
+24,25Psychological stress is associated with
+susceptibility to the common cold in a dose-dependentmanner.
+26Finally, some reports27indicate that heavy
+physical training increases the risk of respiratoryinfections, whereas moderate physical activity coulddecrease risk.
+Because of the central role of rhinoviruses in the cause
+of the common cold, the epidemiology of this condition
+largely parallels that of rhinoviruses. Although rhinovirusescan be detected throughout the year, the incidence ofrhinovirus infections peaks during autumn, with asubsequent smaller outbreak in the spring.
+28,29Results of a
+follow-up study30showed the high incidence of rhinovirus
+infections in children during the first years of life. By age 6months, more than 20% of children had had a laboratory-confirmed rhinovirus infection. By age 2 years, rhinovirusinfection had been documented by virus culture or PCR in
+79% of the children, and 91% had antibodies against
+rhinoviruses. The average annual rate of rhinovirusinfection is estimated at about 0·8 per person.
+28However,
+this figure is likely an underestimate, and calculationsbased on PCR data might yield a substantially higher rate.
+Many other viruses that cause the common cold tend to
+have their own patterns of seasonality. In most temperate
+countries, RSV usually causes outbreaks around the turn
+of the year,
+31but other patterns have also been
+documented.32Influenza epidemics also typically occur in
+the winter in the northern hemisphere, often overlappingwith RSV.
+31,33
+The transmission of viruses that cause upper respiratory
+infections can occur by any of the three majormechanisms: 1) hand contact with secretions that containthe virus, either directly from an infected person orindirectly from environmental surfaces; 2) small-particle
+aerosols lingering in the air for an extended time; or 3)
+direct hit by large-particle aerosols from an infectedperson. Although all these mechanisms are likely to beinvolved in the spread of any respiratory virus, the primaryroutes of transmission do differ between viruses. Forinstance, influenza viruses are thought to be spread mainlyvia small-particle aerosols,
+34whereas hand contact
+followed by self-inoculation with the virus into the nose oreye has been reported as the most efficient way oftransmission for rhinoviruses.
+35However, aerosol
+transmission of rhinoviruses has also been clearlydocumented.
+36Pathogenesis
+The pathogenesis of the common cold involves a complexinterplay between replicating viruses and the host’sinflammatory response. The detailed pathogeneticmechanisms of the various respiratory viruses can be verydifferent from each other, as indicated by the fact that theprimary site of replication of influenza viruses is in thetracheobronchial epithelium,
+34whereas rhinovirus repli-
+cation starts predominantly in the nasopharynx.37The
+available evidence,38albeit scarce, does not lend support to
+the popular belief that colds are associated with chilling orexposure to a cold environment.
+Much of our understanding of the pathogenetic events
+in the common cold is derived from studies of volunteers
+infected with rhinoviruses.
+35–37Rhinovirus infection begins
+with the deposition of viruses in the anterior nasal mucosaor in the eye, from where they get to the nose via thelacrimal duct. The viruses are then transported to theposterior nasopharynx by mucociliary action. In the
+adenoid area, the viruses gain entrance to epithelial cells
+by binding to specific receptors on the cells. About 90% ofrhinovirus serotypes use intercellular adhesion molecule-1(ICAM-1) as their receptor.
+39,40Once inside the epithelial
+cell, the virus starts to replicate rapidly. Progeny virusescan be detected within 8–10 h after intranasal inoculationof rhinoviruses.
+41The infectious dose of rhinovirus is
+small,42and up to 95% of individuals without antibodies
+against the specific viral serotype are infected afterintranasal challenge.
+43However, for reasons still unknown,
+all infections do not lead to clinical illness; symptomaticcolds develop in only 75% of infected persons.
+43The
+shedding of rhinoviruses peaks on the second day afterintranasal inoculation and decreases rapidly thereafter, butsmall amounts of viruses can be discovered in nasalsecretions for up to 3 weeks after infection.
+37,44
+Viral infection of the nasal mucosa results in
+vasodilation and increased vascular permeability, which inturn cause nasal obstruction and rhinorrhoea, which arethe main clinical symptoms of the common cold.Cholinergic stimulation leads to increased mucous gland
+secretion and sneezing. The detailed mechanisms by
+which viral infection causes such changes in the nasalmucosa are still incompletely understood. Distinctdifferences exist in the degree of epithelial destructionbetween various respiratory viruses. Whereas influenzaviruses and adenoviruses cause extensive damage to therespiratory epithelium,
+45,46no histopathological changes are
+observed in nasal biopsy specimens from individualsinfected with rhinoviruses.
+37The absence of epithelial
+destruction during rhinovirus infections has led to the ideathat the clinical symptoms of the common cold might notbe caused by a direct cytopathic effect of the viruses, butinstead are primarily caused by the inflammatory response
+of the host. Extensive research into the role of
+inflammatory mediators in the pathogenesis of thecommon cold has produced evidence for increasedconcentrations of several mediators, such as kinins,leukotrienes, histamine, interleukins 1, 6, and 8, tumournecrosis factor, and RANTES (regulated by activationnormal T cell expressed and secreted) in the nasalsecretions of patients with colds.
+47–52The concentrations of
+interleukin 6 and interleukin 8 in nasal secretions correlatewith the severity of the symptoms.
+53,54The host response
+mechanisms triggered by viral infection are, however,interrelated, extremely complex, and far from resolved.For example, in respiratory epithelial cells infected withRSV, interleukin 1 /H9252and tumour necrosis factor /H9251induce
+the synthesis of interleukin 8 at 24 h, but partly inhibit thesynthesis of this cytokine at 48 h.
+55SEMINAR
+THE LANCET • Vol 361 • January 4, 2003 • www.thelancet.com 53<1/H110916001234567
+1–23–45–910–1415–1920–2425–2930–3940–4950–59Mean annual number of
+illnesses per person
+Age (years)
+Figure 2: Mean annual incidence of respiratory illnesses per
+person by age group5For personal use. Only reproduce with permission from The Lancet Publishing Group.Results of studies have shown that the effect of the
+common cold in the upper respiratory tract is not limitedto the nasal cavity, but that paranasal sinuses are alsofrequently affected. CT scans and plain radiographs ofsinuses obtained during the early course of illness in adults
+with colds show substantial abnormalities that usually
+resolve spontaneously without antibiotic treatment.
+56,57
+These findings imply that most sinus abnormalitiesobserved during the common cold are not evidence of abacterial complication, but are instead part of the normalcourse of illness. Findings of an experimental study
+58
+showed that blowing of the nose creates such a highintranasal pressure that it could propel fluid from the nasalcavity to the paranasal sinuses. Furthermore, rhinovirusRNA has been detected in sinus aspirates even in theabsence of bacteria,
+59and results of a study60that used in-
+situ hybridisation provide evidence for the presence ofrhinovirus in the epithelial cells of maxillary sinuses inpatients with acute sinusitis.
+In adults and children, viral infection of the upper
+respiratory tract often causes dysfunction of the Eustachian
+tube, which is considered the most important factor in thepathogenesis of acute otitis media.
+61Great middle ear
+negative pressures are recorded in most preschool andschool-aged children with colds.
+62,63In adult volunteers
+challenged with rhinoviruses or influenza A viruses, normalEustachian tube function deteriorated in 50–80% ofindividuals.
+64,65
+Several respiratory viruses—eg, influenza viruses, RSV,
+and parainfluenza viruses—can also infect the lowerrespiratory tract, but the ability of rhinoviruses to replicatein the lower airways has been much debated. Althoughrhinoviruses have been detected in secretions obtained
+from the lower airways by bronchoscopy,
+66potential viral
+contamination from the upper respiratory tract was notruled out until recently, when investigators of one study
+67
+of adult volunteers infected with rhinoviruses avoidedpotential contamination from the upper airways by use ofin-situ hybridisation on bronchial biopsies. The findings ofthe study showed conclusively that rhinoviruses are able toreplicate in the lower airways. 
+Clinical manifestations
+The symptoms of the common cold arise after anincubation period that can vary considerably betweendifferent viruses. In experimental rhinovirus infections, theonset of symptoms has been reported to occur as soon as10–12 h after intranasal inoculation of the virus,
+41whereas
+the incubation period of influenza ranges from 1 to 7 days.
+34Generally, the severity of the symptoms
+increases rapidly, peaks within 2–3 days after infection,and decreases soon after. The mean duration of thecommon cold is 7–10 days, but in a proportion of patientssome symptoms can still be present after 3 weeks.
+8,68,69
+Rhinovirus infections typically start with a sore throat,
+which is soon accompanied by nasal stuffiness anddischarge, sneezing, and cough. The soreness of the throatusually disappears quickly, whereas the initial wateryrhinorrhoea turns thicker and more purulent.
+70The
+purulence of the nasal discharge is not associated withchanges in the nasopharyngeal bacterial flora
+71and is not
+considered to indicate a simultaneous bacterial infection ofthe nasal mucosa. Fever is an infrequent finding duringrhinovirus infections in adults, but it is fairly common inchildren with upper respiratory infections of any cause
+72,73
+Other symptoms associated with the cold syndromeinclude hoarseness, headache, malaise, and lethargy.Myalgia is an occasional complaint in patients with colds,although it is a more typical feature of influenza infection.
+34Although the common cold is usually a self-limited
+illness of short duration, the viral infection is sometimesaccompanied by a bacterial complication. In children, themost common bacterial complication is acute otitis media,which occurs in about 20% of children with viral upper
+respiratory infections.
+74,75The seasonal incidence rates of
+otitis media closely parallel the general occurrence of viralrespiratory infections,
+76,77and the complication is
+diagnosed most frequently on days 3 or 4 after the onset ofupper respiratory symptoms.
+78,79Findings of studies
+indicate that respiratory viruses play a crucial part in thedevelopment of acute otitis media,
+61and the detection rates
+of different viruses in the middle-ear fluid suggest that atleast some viruses actively invade the middle ear andcontribute to the inflammatory process in the middle earmucosa.
+80–83
+Other common bacterial complications of viral upper
+respiratory infections include sinusitis and pneumonia.Sinusitis has been estimated to occur as a complication in0·5–2% of colds,
+12but on the basis of recent evidence for
+the high incidence of sinus abnormalities duringapparently uncomplicated colds it is difficult to ascertainwhether changes in paranasal sinuses represent realbacterial complications or whether they are part of the
+natural history of the common cold.
+56,57Pneumonia
+associated with a viral upper respiratory infection is often atrue bacterial complication of the predisposing viral illness,but it can also be a pure extension of the viral illness to thepulmonary level. Research into the microbial cause of
+pneumonia has suggested that mixed viral-bacterial
+infections are common, especially in children.
+84,85
+Findings of several studies indicate a clear association
+between viral respiratory infections and acuteexacerbations of asthma in both adults and children. In astudy
+86of adult patients with asthma, symptoms of the
+common cold were reported in 80% of episodes ofwheezing or dyspnoea, and rhinoviruses accounted forabout 60% of those asthma exacerbations for which theviral cause could be identified. The central role of
+rhinoviruses in triggering acute exacerbations of asthma
+has also been well documented in children.
+87In the elderly
+population, the overall morbidity due to respiratory virusesother than influenza is often under-rated, although resultsof surveillance studies
+13indicate that two thirds of elderly
+patients with colds can be expected to develop lowerrespiratory illness. Individuals with chronic obstructivepulmonary disease (COPD) form another important riskgroup for viral infections.
+88Although the frequencies of
+colds are similar in patients with and without COPD, theuse of medical resources, including hospital admissionsand visits to emergency clinics, during viral respiratoryillnesses is substantially increased in patients with COPD.
+89
+In immunocompromised patients, RSV is usually the mostcommon cause of severe viral respiratory illness, butrhinovirus infections have also been associated with severeand even fatal lower respiratory tract disease.
+90
+Diagnosis
+In most instances, the clinical diagnosis of the commoncold is simple and can be made reliably by adult patientsthemselves.
+8However, diagnosis is sometimes problematic
+in infants and young children who are not capable ofexpressing their symptoms. Diagnosis in infants isespecially difficult in cases in which fever is the leadingsymptom during the early phase of the infection, and the
+doctor is challenged to distinguish benign viral infections
+from severe invasive bacterial infections. Allergic orvasomotor rhinitis can sometimes mimic the commoncold, but usually these conditions can be differentiatedSEMINAR
+54 THE LANCET • Vol 361 • January 4, 2003 • www.thelancet.comFor personal use. Only reproduce with permission from The Lancet Publishing Group.easily. The soreness of the throat caused by streptococcal
+pharyngitis often resembles the initial symptoms of thecommon cold. However, nasal stuffiness and discharge,which are the primary symptoms of the common cold, areuntypical to streptococcal pharyngitis. Although most
+cases of exudative tonsillitis in children are caused by
+viruses, the clinical findings on inspection of the pharynxcannot reliably distinguish bacterial from viral tonsillitis.
+91
+In children, intranasal foreign bodies should be searchedfor in cases of persistent nasal discharge, particularly if thedischarge is unilateral.
+Although respiratory infections caused by different
+viruses tend to have some variations in their typical clinicalpresentations, the wide range of the clinical manifestationsof each virus makes it virtually impossible to ascertain thespecific virus causing the problem in an individual patientwith the common cold on clinical grounds alone.
+14,34,92Even
+for influenza, which is often regarded as a distinct diseaseentity among respiratory viral infections, the positivepredictive value of clinical signs and symptoms has rangedbetween 27% and 79%.
+93,94
+Methods for identification of viruses include viral
+culture, antigen detection, and PCR. Isolation of viruses incell cultures is considered the gold standard for detection,but has little value for clinical practice because of theslowness of the process. Immunoperoxidase staining of the
+cultures with monoclonal antibodies speeds up viral
+identification substantially, with results usually availablewithin 48 h.
+95Various antigen detection tests are frequently
+used to identify influenza viruses, parainfluenza viruses,RSV, and adenoviruses,
+96,97but these techniques cannot be
+routinely used to detect rhinoviruses because of the hugenumber of different serotypes that exist. Recentlydeveloped rapid antigen detection kits for influenza andRSV can provide results within 15–30 min,
+98,99but there
+are concerns about the real-life sensitivity and specificity ofthese tests.
+100PCR has proved valuable in diagnosis of viral
+infections in general, and especially rhinovirus infections,for which other methods have been suboptimum.
+8,9,101,102
+However, PCR-based techniques are still too laborious foruse in everyday clinical practice, and the extremesensitivity of PCR can pose problems for the interpretationof results.
+19,20
+Nasopharyngeal aspirates and nasal wash specimens are
+usually considered the specimens of choice for thedetection of respiratory viruses, but nasal and throat swabsare also often used because of their greater feasibility.
+103–106
+Scarce data are available on the optimum samplingmethods, and the best sites to collect specimens from forviral detection could differ between viruses.
+Treatment
+Since the common cold is caused by a multitude ofdifferent virus types with varying pathogeneticmechanisms, that an effective universal treatment for thisdisorder has not been developed is understandable. Thesymptomatic treatment of colds has been aimed at
+relieving the most disturbing symptoms of the illness, and
+hundreds of different over-the-counter preparations areavailable.
+107,108Although antibiotics are not effective against
+viruses, they are widely used in the treatment ofuncomplicated viral upper respiratory infections.
+2,109
+Most patients find nasal stuffiness and discharge the
+most bothersome symptoms of the common cold.8Nasal
+blockage can be effectively reduced with intranasally ororally administered decongestants.
+110First-generation (but
+not second-generation) antihistamines reduce sneezingand rhinorrhoea, probably because of their anticholinergicrather than antihistamine effects.
+111Results of severalstudies have also shown the efficacy of local ipratropium inreducing rhinorrhoea.
+112Theoretically, corticosteroids as
+potent anti-inflammatory agents could be thought toeffectively reduce nasal symptoms, but results of clinicalstudies of either intranasal or oral steroids have shown noclinical benefit.
+44,69,113The use of intranasal steroids in
+children during rhinovirus infection could even increasethe risk of acute otitis media.
+114Cough medications, both
+antitussives and mucolytic agents, are frequently used,
+although their efficacy has been poorly shown.115Non-
+steroidal anti-inflammatory drugs reduce fever andsoreness of the throat, and might also have some beneficialeffect on cough.
+116Data on the efficacy of zinc in reducing
+the severity and duration of colds are still inconclusive.117
+At present, specific antiviral treatments for respiratory
+viruses are commercially available only for influenzaviruses. The usability of amantadine and rimantadine islimited by their side-effects, their inefficacy againstinfluenza B viruses, and the rapid development of resistant
+viral strains during treatment.
+118The new influenza-specific
+antivirals, zanamivir and oseltamivir, have fewer side-effects and are effective against both influenza A and Bviruses. When treatment is initiated within 48 h of theonset of symptoms, the duration of the clinical illness is
+reduced by 1–2 days with either of these drugs.
+119,120Scarce
+evidence exists for the efficacy of these drugs in theprevention of bacterial complications, especially in high-risk patients,
+121but early treatment of influenza with
+oseltamivir does reduce the development of acute otitismedia in children by more than 40%.
+122
+Because of the leading role of rhinoviruses in the
+common cold, effective antivirals against rhinovirusescould be expected to have the greatest effect in thetreatment of this disease. In the 1980s, much hope was laidon the use of interferon, but disappointingly it provided nobenefit in the treatment of naturally occurring colds orexperimental rhinovirus infections.
+123,124The discovery ofSEMINAR
+THE LANCET • Vol 361 • January 4, 2003 • www.thelancet.com 55
+For personal use. Only reproduce with permission from The Lancet Publishing Group.ICAM-1 as the main cellular receptor for rhinoviruses led
+to attempts to block the attachment of the virus to thereceptor, using a recombinant soluble decoy ICAM-1.Findings of clinical trials showed that this approach couldreduce the severity of experimental rhinovirus infections,
+but the effect was modest.
+125
+Recent advances in antirhinoviral drugs include the
+development of pleconaril, a novel viral capsid binder, andruprintrivir, a human rhinovirus 3C protease inhibitor.
+126–128
+Pleconaril is administered orally and is active against awide range of rhinoviruses and enteroviruses. Findings ofearly clinical trials have indicated that when pleconariltreatment is instituted within 24–36 h of the onset of symptoms, the duration of illness is reduced by 
+1–1·5 days.
+129
+Increasing knowledge about the central role of the host
+inflammatory response in producing the symptoms of thecommon cold has led to attempts to treat colds withcombinations of antiviral and anti-inflammatory agents.
+130
+In a recent trial131in adults challenged with rhinoviruses,
+the combination of intranasal interferon with oralchlorphenamine and ibuprofen showed effect in reducingnot only nasal but also several other symptoms of theillness.
+Prevention
+The diversity of the viral cause of the common cold hashampered prevention as well as treatment initiatives. In theabsence of a suitable common antigen across the widerange of rhinovirus serotypes, the prospects fordevelopment of a vaccine against rhinoviruses seem poor.
+Influenza is the only respiratory infection for which a
+vaccine is commercially available. In addition to thepresent inactivated influenza vaccine, which isadministered intramuscularly, new types of influenzavaccines for intranasal administration have beendeveloped.
+132–134Several types of vaccines against RSV and
+parainfluenza viruses are also being developed and are inearly clinical trials.
+135–137
+The antiviral drug approach to prevention of respiratory
+infections is currently to influenza, for which the efficacy ofthe specific antivirals has been shown for both seasonalprophylaxis and post-exposure prophylaxis withinfamilies.
+138–142Contrary to the lack of effect in the treatment
+of rhinovirus infections, the prophylactic efficacy ofintranasally administered interferon has been welldemonstrated, but the unacceptably high rate of nasaladverse events during extended administration has
+decreased enthusiasm about its use for prevention of
+colds.
+143In a proof of concept study,144intranasally
+administered immunoglobulin reduced episodes of rhinitisin children, but no further investigations of passiveimmunisation of the nasal mucosa have been published. 
+Despite the widespread use of vitamin C and extracts of
+the plant Echinacea for the prevention of the common
+cold, conclusive evidence for such an effect is stilllacking.
+145,146In view of the available data, it seems obvious
+that complete prevention of colds would only be possibleby total long-term isolation from the community.
+147While
+waiting for the next ship bound for Antarctica, however,many people might find solace in a report
+148that suggests
+that intake of wine, especially red wine, may have aprotective effect against the common cold.
+Future considerations
+Together with the substantial proportion of colds withouta proven microbial cause, the recent discovery of humanmetapneumovirus suggests that other importantrespiratory viruses might still remain undetected, and theuse of highly sophisticated molecular techniques couldlead to new discoveries. Further research into the hostinflammatory response and viral-bacterial interactionduring the common cold might reveal pathways that couldserve as targets for intervention to better alleviate the
+symptoms and to prevent the development of
+complications. Optimum use of the newly available andforthcoming antiviral agents is likely to increase the needfor simple, rapid, inexpensive, and accurate point-of-caretests to identify the specific virus causing the infection onan individual level. In this era of ever-increasingantimicrobial resistance of bacteria, efforts aimed at theeducation of people about the ineffectiveness of antibiotics
+in the treatment of uncomplicated colds should be
+intensified.
+Conflict of interest statement
+T Heikkinen has received support for research on the epidemiology of
+respiratory viral infections from Wyeth and GlaxoSmithKline; has
+participated as one of the local investigators in Finland in international
+multicentre studies of zanamivir sponsored by GlaxoSmithKline; and hasreceived honoraria for lectures in the area of respiratory infections at
+academic meetings organised by various pharmaceutical companies. 
+None of these sources have contributed to the content of this Seminar. A Järvinen has no conflict of interest with respect to this Seminar.
+References
+1 Herbert AP. The common cold. In: Look back and laugh. London:
+Methuen, 1 960: 115–17.
+2 Gonzales R, Malone DC, Maselli JH, Sande MA. Excessive
+antibiotic use for acute respiratory infections in the United States.
+Clin Infect Dis 2001; 33:757–62.
+3 Adams PF, Hendershot GE, Marano MA. Current estimates from
+the National Health Interview Survey. Vital Health Stat 1999; 10:
+1996.
+4 Fox JP, Hall CE, Cooney MK, Luce RE, Kronmal RA. The Seattle
+virus watch, 2: objectives, study population and its observation, data
+processing and summary of illnesses. Am J Epidemiol 1972; 96:
+270–85.
+5 Monto AS, Ullman BM. Acute respiratory illness in an American
+community: the Tecumseh study. JAMA 1974; 227: 164–69.
+6 Monto AS, Sullivan KM. Acute respiratory illness in the community:
+frequency of illness and the agents involved. Epidemiol Infect 1993;
+110: 145–60.
+7 Monto AS. Studies of the community and family: acute respiratory
+illness and infection. Epidemiol Rev 1994; 16:351–73.
+8 Arruda E, Pitkäranta A, Witek TJ Jr, Doyle CA, Hayden FG.
+Frequency and natural history of rhinovirus infections in adults
+during autumn. J Clin Microbiol 1997; 35:2864–68.
+9 Mäkelä MJ, Puhakka T, Ruuskanen O, et al. Viruses and bacteria in
+the etiology of the common cold. J Clin Microbiol 1998; 36:539–42.
+10 Monto AS, Bryan ER, Ohmit S. Rhinovirus infections in Tecumseh,
+Michigan: frequency of illness and numbers of serotypes. J Infect Dis
+1987; 156: 43–49.
+11 Vesa S, Kleemola M, Blomqvist S, et al. Epidemiology of
+documented viral respiratory infections and acute otitis media in a
+cohort of children followed from two to twenty-four months of age. Pediatr Infect Dis J 2001; 20:574–81.
+12 Gwaltney JM Jr. The common cold. In: Mandell GL, Bennett JE,
+Dolin R, eds. Principles and practice of infectious diseases, 5th edn.
+Philadelphia: Churchill Livingstone, 2 000: 651–65.
+13 Larson HE, Reed SE, Tyrrell DAJ. Isolation of rhinoviruses and
+coronaviruses from 38 colds in adults. J Med Virol 1980; 5:221–29.
+14 Nicholson KG, Kent J, Hammersley V, Cancio E. Acute viral
+infections of upper respiratory tract in elderly people living in the
+community: comparative, prospective, population based study of
+disease burden. BMJ 1997; 315: 1060–64.
+15 van den Hoogen BG, de Jong JC, Groen J, et al. A newly discovered
+human pneumovirus isolated from young children with respiratorytract disease. Nat Med 2001; 7:719–24.
+16 Nissen MD, Siebert DJ, Mackay IM, Sloots TP, Withers SJ.
+Evidence of human metapneumovirus in Australian children. 
+Med J Aust 2002; 176: 188.
+17 Peret TCT, Boivin G, Li Y, et al. Characterization of human
+metapneumoviruses isolated from patients in North America. J Infect Dis 2002; 185: 1660–63.
+18 Drews AL, Atmar RL, Glezen WP, et al. Dual respiratory virus
+infections. Clin Infect Dis 1997; 25:1421–29.SEMINAR
+56 THE LANCET • Vol 361 • January 4, 2003 • www.thelancet.comFor personal use. Only reproduce with permission from The Lancet Publishing Group.19 Johnston SL, Sanderson G, Pattemore PK, et al. Use of polymerase
+chain reaction for diagnosis of picornavirus infection in subjects 
+with and without respiratory symptoms. J Clin Microbiol 1993; 31:
+111–17.
+20 Nokso-Koivisto J, Kinnari TJ, Lindahl P, Hovi T, Pitkäranta A.
+Human picornavirus and coronavirus RNA in nasopharynx ofchildren without concurrent respiratory symptoms. J Med Virol 2002;
+66:417–20.
+21 Wald ER, Dashefsky B, Byers C, Guerra N, Taylor F. Frequency and
+severity of infections in day care. J Pediatr 1988; 112: 540–46.
+22 Alho OP, Koivu M, Sorri M, Rantakallio P. Risk factors for 
+recurrent acute otitis media and respiratory infection in infancy. 
+Int J Pediatr Otorhinolaryngol 1990; 19:151–61.
+23 Ball TM, Holberg CJ, Aldous MB, Martinez FD, Wright AL.
+Influence of attendance at day care on the common cold from birththrough 13 years of age. Arch Pediatr Adolesc Med 2002; 156: 121–26.
+24 Casselbrant ML, Mandel EM, Fall PA, et al. The heritability of otitis
+media: a twin and triplet study. JAMA 1999; 282: 2125–30.
+25 Pitkäranta A, Nokso-Koivisto J, Jäntti V, et al. Lowered yields of
+virus-induced interferon production in leukocyte cultures and risk of
+recurrent respiratory infections in children. J Clin Virol 1999; 14:
+199–205.
+26 Cohen S, Tyrrell DAJ, Smith AP. Psychological stress and
+susceptibility to the common cold. N Engl J Med 1991; 325: 606–12.
+27 Nieman DC. Exercise, upper respiratory tract infection, and the
+immune system. Med Sci Sports Exerc 1994; 26:128–39.
+28 Gwaltney JM Jr, Hendley JO, Simon G, Jordan WS Jr. Rhinovirus
+infections in an industrial population, 1: the occurrence of illness. 
+N Engl J Med 1966; 275: 1261–68.
+29 Monto AS, Shope TC, Schwartz SA, Albrecht JK. Intranasal
+interferon-alpha 2b for seasonal prophylaxis of respiratory infection. J Infect Dis 1986; 154: 128–33.
+30 Blomqvist S, Roivainen M, Puhakka T, Kleemola M, Hovi T.
+Virological and serological analysis of rhinovirus infections during thefirst two years of life in a cohort of children. J Med Virol 2002; 66:
+263–68.
+31 Monto AS, Cavallaro JJ. The Tecumseh study of respiratory illness,
+2:patterns of occurrence of infection with respiratory pathogens,
+1965–1969. Am J Epidemiol 1971; 94:280–89.
+32 Waris M. Pattern of respiratory syncytial virus epidemics in Finland:
+two-year cycles with alternating prevalence of groups A and B. J Infect Dis 1991; 163: 464–69.
+33 Izurieta HS, Thompson WW, Kramarz P, et al. Influenza and the
+rates of hospitalization for respiratory disease among infants andyoung children. N Engl J Med 2000; 342: 232–39.
+34 Nicholson KG. Human influenza. In: Nicholson KG, Webster RG,
+Hay AJ, eds. Textbook of influenza. Oxford: Blackwell Science,1998: 219–64.
+35 Gwaltney JM Jr, Moskalski PB, Hendley JO. Hand-to-hand
+transmission of rhinovirus colds. Ann Intern Med 1978; 88:463–67.
+36 Dick EC, Jennings LC, Mink KA, Wartgow CD, Inhorn SL. Aerosol
+transmission of rhinovirus colds. J Infect Dis 1987; 156: 442–48.
+37 Winther B, Gwaltney JM Jr, Mygind N, Turner RB, Hendley JO.
+Sites of rhinovirus recovery after point inoculation of the upper
+airway. JAMA 1986; 256: 1763–67.
+38 Douglas RG Jr, Lindgren KM, Couch RB. Exposure to cold
+environment and rhinovirus common cold: failure to demonstrateeffect. N Engl J Med 1968; 279: 742–47.
+39 Staunton DE, Merluzzi VJ, Rothlein R, et al. A cell adhesion
+molecule, ICAM-1, is the major surface receptor for rhinoviruses. Cell1989; 56:849–53.
+40 Winther B, Arruda E, Witek TJ, et al. Expression of ICAM-1 in nasal
+epithelium and levels of soluble ICAM-1 in nasal lavage fluid during
+human experimental rhinovirus infection. Arch Otolaryngol Head Neck
+Surg 2002; 128: 131–36.
+41 Harris JM II, Gwaltney JM Jr. Incubation periods of experimental
+rhinovirus infection and illness. Clin Infect Dis 1996; 23:1287–90.
+42 Hendley JO, Gwaltney JM Jr. Mechanisms of transmission of
+rhinovirus infections. Epidemiol Rev 1988; 10:243–58.
+43 Gwaltney JM Jr, Hayden FG. Psychological stress and the common
+cold. N Engl J Med 1992; 326: 644–45.
+44 Gustafson LM, Proud D, Hendley JO, Hayden FG, Gwaltney JM Jr.
+Oral prednisone therapy in experimental rhinovirus infections. 
+J Allergy Clin Immunol 1996; 97:1009–14.
+45 Treanor JJ. Influenza virus. In: Mandell GL, Bennett JE, Dolin R,
+eds. Principles and practice of infectious diseases, 5th edn.Philadelphia: Churchill Livingstone, 2 000: 1823–49.
+46 Cherry JD. Adenoviruses. In Feigin RD, Cherry JD, eds. Textbook of
+pediatric infectious diseases, 4th edn. Philadelphia: W B Saunders,1998: 1666–84.
+47 Naclerio RM, Proud D, Lichtenstein LM, et al. Kinins are generated
+during experimental rhinovirus colds. J Infect Dis 1988; 157: 133–42.48 Welliver RC, Wong DT, Sun M, et al. The development of
+respiratory syncytial virus-specific IgE and the release of histamine in
+nasopharyngeal secretions after infection. N Engl J Med 1981; 305:
+841–46.
+49 Volovitz B, Faden H, Ogra PL. Release of leukotriene C4 in
+respiratory tract during acute viral infection. J Pediatr 1988; 112:
+218–22.
+50 Noah TL, Henderson FW, Wortman IA, et al. Nasal cytokine
+production in viral acute upper respiratory infection of childhood. J Infect Dis 1995; 171: 584–92.
+51 Fritz RS, Hayden FG, Calfee DP, et al. Nasal cytokine and
+chemokine responses in experimental influenza A virus infection:
+results of a placebo-controlled trial of intravenous zanamivir
+treatment. J Infect Dis 1999; 180: 586–93.
+52 Saito T, Deskin RW, Casola A, et al. Respiratory syncytial virus
+induces selective production of the chemokine RANTES by upper
+airway epithelial cells. J Infect Dis 1997; 175: 497–504.
+53 Zhu Z, Tang W, Ray A, et al. Rhinovirus stimulation of interleukin-6
+in vivo and in vitro: evidence for nuclear factor /H9260B-dependent
+transcriptional activation. J Clin Invest 1996; 97:421–30.
+54 Turner RB, Weingand KW, Yeh CH, Leedy DW. Association
+between interleukin-8 concentration in nasal secretions and severity
+of symptoms of experimental rhinovirus colds. Clin Infect Dis 1998;
+26:840–46.
+55 Patel JA, Jiang Z, Nakajima N, Kunimoto M. Autocrine regulation of
+interleukin-8 by interleukin-1 /H9251in respiratory syncytial virus-infected
+pulmonary epithelial cells in vitro. Immunology 1998; 95:501–06.
+56 Gwaltney JM Jr, Phillips CD, Miller RD, Riker DK. Computed
+tomographic study of the common cold. N Engl J Med 1994; 330:
+25–30.
+57 Puhakka T, Mäkelä MJ, Alanen A, et al. Sinusitis in the common
+cold. J Allergy Clin Immunol 1998; 102: 403–08.
+58 Gwaltney JM Jr, Hendley JO, Phillips CD, et al. Nose blowing
+propels nasal fluid into the paranasal sinuses. Clin Infect Dis 2000; 30:
+387–91.
+59 Pitkäranta A, Arruda E, Malmberg H, Hayden FG. Detection of
+rhinovirus in sinus brushings of patients with acute community-
+acquired sinusitis by reverse transcription-PCR. J Clin Microbiol
+1997; 35:1791–93.
+60 Pitkäranta A, Starck M, Savolainen S, et al. Rhinovirus RNA in the
+maxillary sinus epithelium of adult patients with acute sinusitis. 
+Clin Infect Dis 2001; 33:909–11.
+61 Heikkinen T. The role of respiratory viruses in otitis media. Vaccine
+2000; 19(suppl 1) :S51–55.
+62 Sanyal MA, Henderson FW, Stempel EC, Collier AM, Denny FW.
+Effect of upper respiratory tract infection on Eustachian tube
+ventilatory function in the preschool child. J Pediatr 1980; 97:11–15.
+63 Winther B, Hayden FG, Arruda E, et al. Viral respiratory infection in
+schoolchildren: effects on middle ear pressure. Pediatrics 2002; 109:
+826–32.
+64 McBride TP, Doyle WJ, Hayden FG, Gwaltney JM Jr. Alterations of
+the eustachian tube, middle ear, and nose in rhinovirus infection. 
+Arch Otolaryngol Head Neck Surg 1989; 115: 1054–59.
+65 Doyle WJ, Skoner DP, Hayden F, et al. Nasal and otologic effects of
+experimental influenza A virus infection. Ann Otol Rhinol Laryngol
+1994; 103: 59–69.
+66 Halperin SA, Eggleston PA, Hendley JO, et al. Pathogenesis of lower
+respiratory tract symptoms in experimental rhinovirus infection. Am Rev Respir Dis 1983; 128: 806–10.
+67 Papadopoulos NG, Bates PJ, Bardin PG, et al. Rhinoviruses infect
+the lower airways. J Infect Dis 2000; 181: 1875–84.
+68 Gwaltney JM Jr, Hendley JO, Simon G, Jordan WS Jr. Rhinovirus
+infections in an industrial population, 2: characteristics of illness and
+antibody response. JAMA 1967; 202: 494–500.
+69 Puhakka T, Mäkelä MJ, Malmström K, et al. The common 
+cold: effects of intranasal fluticasone propionate treatment. 
+J Allergy Clin Immunol 1998; 101: 726–31.
+70 Igarashi Y, Skoner DP, Doyle WJ, et al. Analysis of nasal secretions
+during experimental rhinovirus upper respiratory infections. J Allergy Clin Immunol 1993; 92:722–31.
+71 Winther B, Brofeldt S, Gronborg H, et al. Study of bacteria in the
+nasal cavity and nasopharynx during naturally acquired common
+colds. Acta Otolaryngol 1984; 98:315–20.
+72 Putto A, Ruuskanen O, Meurman O. Fever in respiratory virus
+infections. Am J Dis Child 1986; 140: 1159–63.
+73 Dick EC, Inhorn SL, Glezen WP. Rhinoviruses. In: Feigin RD,
+Cherry JD, eds. Textbook of pediatric infectious diseases, 4th edn.
+Philadelphia: W B Saunders, 1 998: 1839–65.
+74 Heikkinen T, Ruuskanen O, Ziegler T, Waris M, Puhakka H. Short-
+term use of amoxicillin-clavulanate during upper respiratory tractinfection for prevention of acute otitis media. J Pediatr 1995; 126:
+313–16.SEMINAR
+THE LANCET • Vol 361 • January 4, 2003 • www.thelancet.com 57For personal use. Only reproduce with permission from The Lancet Publishing Group.75 Tapiainen T, Luotonen L, Kontiokari T, Renko M, Uhari M. Xylitol
+administered only during respiratory infections failed to prevent acute
+otitis media. Pediatrics 2002; 109: e19.
+76 Henderson FW, Collier AM, Sanyal MA, et al. A longitudinal study of
+respiratory viruses and bacteria in the etiology of acute otitis media
+with effusion. N Engl J Med 1982; 306: 1377–83.
+77 Ruuskanen O, Arola M, Putto-Laurila A, et al. Acute otitis media 
+and respiratory virus infections. Pediatr Infect Dis J 1989; 8:
+94–99.
+78 Heikkinen T, Ruuskanen O. Temporal development of acute otitis
+media during upper respiratory tract infection. Pediatr Infect Dis J 1994;
+13:659–61.
+79 Koivunen P, Kontiokari T, Niemelä M, Pokka T, Uhari M. Time to
+development of acute otitis media during an upper respiratory tract
+infection in children. Pediatr Infect Dis J 1999; 18:303–05.
+80 Chonmaitree T, Owen MJ, Howie VM. Respiratory viruses interfere
+with bacteriologic response to antibiotic in children with acute otitismedia. J Infect Dis 1990; 162: 546–49.
+81 Arola M, Ziegler T, Ruuskanen O. Respiratory virus infection as a
+cause of prolonged symptoms in acute otitis media. J Pediatr 1990;
+116: 697–701.
+82 Pitkäranta A, Virolainen A, Jero J, Arruda E, Hayden FG. Detection of
+rhinovirus, respiratory syncytial virus, and coronavirus infections inacute otitis media by reverse transcriptase polymerase chain reaction.Pediatrics 1998; 102: 291–95.
+83 Heikkinen T, Thint M, Chonmaitree T. Prevalence of various
+respiratory viruses in the middle ear during acute otitis media. N Engl J Med 1999; 340: 260–64.
+84 Juvén T, Mertsola J, Waris M, et al. Etiology of community-acquired
+pneumonia in 254 hospitalized children. Pediatr Infect Dis J 2000; 19:
+293–98.
+85 Heiskanen-Kosma T, Korppi M, Jokinen C, et al. Etiology of
+childhood pneumonia: serologic results of a prospective, population-
+based study. Pediatr Infect Dis J 1998; 17:986–91.
+86 Nicholson KG, Kent J, Ireland DC. Respiratory viruses and
+exacerbations of asthma in adults. BMJ 1993; 307: 982–86.
+87 Johnston SL, Pattemore PK, Sanderson G, et al. Community study of
+role of viral infections in exacerbations of asthma in 9–11 year old
+children. BMJ 1995; 310: 1225–29.
+88 Seemungal T, Harper-Owen R, Bhowmik A, et al. Respiratory viruses,
+symptoms, and inflammatory markers in acute exacerbations and stable
+chronic obstructive pulmonary disease. Am J Respir Crit Care Med
+2001; 164: 1618–23.
+89 Greenberg SB, Allen M, Wilson J, Atmar RL. Respiratory viral
+infections in adults with and without chronic obstructive pulmonary
+disease. Am J Respir Crit Care Med 2000; 162: 167–73.
+90 Ghosh S, Champlin R, Couch R, et al. Rhinovirus infections in
+myelosuppressed adult blood and marrow transplant recipients. 
+Clin Infect Dis 1999; 29:528–32.
+91 Putto A. Febrile exudative tonsillitis: viral or streptococcal? Pediatrics
+1987; 80:6–12.
+92 Walsh EE, Falsey AR, Hennessey PA. Respiratory syncytial and 
+other virus infections in persons with chronic cardiopulmonary disease.Am J Respir Crit Care Med 1999; 160: 791–95.
+93 Carrat F, Tachet A, Rouzioux C, Housset B, Valleron AJ. Evaluation
+of clinical case definitions of influenza: detailed investigation of patientsduring the 1995–1996 epidemic in France. Clin Infect Dis 1999; 28:
+283–90.
+94 Monto AS, Gravenstein S, Elliott M, Colopy M, Schweinle J. Clinical
+signs and symptoms predicting influenza infection. 
+Arch Intern Med 2000; 160: 3243–47.
+95 Waris M, Ziegler T, Kivivirta M, Ruuskanen O. Rapid detection of
+respiratory syncytial virus and influenza A virus in cell cultures byimmunoperoxidase staining with monoclonal antibodies. 
+J Clin Microbiol 1990; 28:1159–62.
+96 Kim HW, Wyatt RG, Fernie BF, et al. Respiratory syncytial virus
+detection by immunofluorescence in nasal secretions with monoclonal
+antibodies against selected surface and internal proteins. J Clin Microbiol 1983; 18:1399–404.
+97 Nikkari S, Halonen P, Kharitonenkov I, et al. One-incubation time-
+resolved fluoroimmunoassay based on monoclonal antibodies in
+detection of influenza A and B viruses directly in clinical specimens. 
+J Virol Methods 1989; 23:29–40.
+98 Cox NJ, Subbarao K. Influenza. Lancet 1999; 354: 1277–82.
+99 Krilov LR, Lipson SM, Barone SR, et al. Evaluation of a rapid
+diagnostic test for respiratory syncytial virus (RSV): potential for
+bedside diagnosis. Pediatrics 1994; 93:903–06.
+100 Monto AS, Herlocher ML, Rotthoff J, Bidol SA. Detection and control
+of influenza outbreaks in Michigan nursing homes. Program and
+Abstracts of the 39th Annual Meeting of the Infectious DiseasesSociety of America, San Francisco, USA ,2001; abstr 888.
+101 Hyypiä T, Puhakka T, Ruuskanen O, et al. Molecular diagnosis ofhuman rhinovirus infections: comparison with virus isolation. 
+J Clin Microbiol 1998; 36:2081–83.
+102 Fan J, Henrickson KJ, Savatski LL. Rapid simultaneous diagnosis of
+infections with respiratory syncytial viruses A and B, influenza viruses
+A and B, and human parainfluenza virus types 1, 2, and 3 by
+multiplex quantitative reverse transcription-polymerase chain reaction-
+enzyme hybridization assay (Hexaplex). Clin Infect Dis 1998; 26:
+1397–402.
+103 McIntosh K, Halonen P, Ruuskanen O. Report of a workshop on
+respiratory viral infections: epidemiology, diagnosis, treatment, and
+prevention. Clin Infect Dis 1993; 16:151–64.
+104 Hall CB, Douglas RG Jr. Clinically useful method for the isolation of
+respiratory syncytial virus. J Infect Dis 1975; 131: 1–5.
+105 Covalciuc KA, Webb KH, Carlson CA. Comparison of four clinical
+specimen types for detection of influenza A and B viruses by optical
+immunoassay (FLU OIA test) and cell culture methods. 
+J Clin Microbiol 1999; 37:3971–74.
+106 Heikkinen T, Salmi AA, Ruuskanen O. Comparative study of
+nasopharyngeal aspirate and nasal swab specimens for detection ofinfluenza. BMJ 2001; 322: 138.
+107 Smith MB, Feldman W. Over-the-counter cold medications: a critical
+review of clinical trials between 1950 and 1991. JAMA 1993; 269:
+2258–63.
+108 Lowenstein SR, Parrino TA. Management of the common cold. 
+Adv Intern Med 1987; 32:207–33.
+109 Arroll B, Kenealy T. Antibiotics for the common cold (Cochrane
+Review). The Cochrane Library , Issue 3. Oxford: Update Software,
+2002.
+110 Sperber SJ, Sorrentino JV, Riker DK, Hayden FG. Evaluation of an
+alpha agonist alone and in combination with a nonsteroidal
+antiinflammatory agent in the treatment of experimental rhinoviruscolds. Bull N Y Acad Med 1989; 65:145–60.
+111 Gwaltney JM Jr, Druce HM. Efficacy of brompheniramine maleate 
+for the treatment of rhinovirus colds. Clin Infect Dis 1997; 25:
+1188–94.
+112 Hayden FG, Diamond L, Wood PB, Korts DC, Wecker MT.
+Effectiveness and safety of intranasal ipratropium bromide in 
+common colds: a randomized, double-blind, placebo-controlled trial.Ann Intern Med 1996; 125: 89–97.
+113 Farr BM, Gwaltney JM Jr, Hendley JO, et al. A randomized
+controlled trial of glucocorticoid prophylaxis against experimental
+rhinovirus infection. J Infect Dis 1990; 162: 1173–77.
+114 Ruohola A, Heikkinen T, Waris M, Puhakka T, Ruuskanen O.
+Intranasal fluticasone propionate does not prevent acute otitis 
+media during viral upper respiratory infection in children. J Allergy Clin Immunol 2000; 106: 467–71.
+115 Schroeder K, Fahey T. Over-the-counter medications for acute
+cough in children and adults in ambulatory settings (Cochrane
+Review). The Cochrane Library , Issue 2. Oxford: Update Software,
+2002.
+116 Sperber SJ, Hendley JO, Hayden FG, et al. Effects of naproxen on
+experimental rhinovirus colds: a randomized, double-blind,controlled trial. Ann Intern Med 1992; 117: 37–41.
+117 Marshall I. Zinc for the common cold (Cochrane Review). 
+The Cochrane Library , Issue 2. Oxford: Update Software, 2002.
+118 Hayden FG, Belshe RB, Clover RD, et al. Emergence and apparent
+transmission of rimantadine-resistant influenza A virus in families. N Engl J Med 1989; 321: 1696–702.
+119 The MIST Study Group. Randomised trial of efficacy and safety of
+inhaled zanamivir in treatment of influenza A and B virus infections.Lancet 1998; 352: 1877–81.
+120 Nicholson KG, Aoki FY, Osterhaus AD, et al. Efficacy and safety of
+oseltamivir in treatment of acute influenza: a randomised controlled
+trial. Lancet 2000; 355: 1845–50.
+121 Kaiser L, Keene ON, Hammond JMJ, Elliott M, Hayden FG.
+Impact of zanamivir on antibiotic use for respiratory events following
+acute influenza in adolescents and adults. Arch Intern Med 2000;
+160: 3234–40.
+122 Whitley RJ, Hayden FG, Reisinger KS, et al. Oral oseltamivir
+treatment of influenza in children. Pediatr Infect Dis J 2001; 20:
+127–33.
+123 Hayden FG, Gwaltney JM Jr. Intranasal interferon-alpha 2
+treatment of experimental rhinoviral colds. J Infect Dis 1984; 150:
+174–80.
+124 Hayden FG, Kaiser DL, Albrecht JK. Intranasal recombinant 
+alfa-2b interferon treatment of naturally occurring common colds.Antimicrob Agents Chemother 1988; 32:224–30.
+125 Turner RB, Wecker MT, Pohl G, et al. Efficacy of tremacamra, a
+soluble intercellular adhesion molecule 1, for experimental
+rhinovirus infection: a randomized clinical trial. JAMA 1999; 281:
+1797–804.
+126 Schiff GM, Sherwood JR. Clinical activity of pleconaril in anSEMINAR
+58 THE LANCET • Vol 361 • January 4, 2003 • www.thelancet.comFor personal use. Only reproduce with permission from The Lancet Publishing Group.experimentally induced coxsackievirus A21 respiratory infection. 
+J Infect Dis 2000; 181: 20–26.
+127 Kaiser L, Crump CE, Hayden FG. In vitro activity of pleconaril and
+AG7088 against selected serotypes and clinical isolates of human
+rhinoviruses. Antiviral Res 2000; 47:215–20.
+128 Hsyu PH, Pithavala YK, Gersten M, Penning CA, Kerr BM.
+Pharmacokinetics and safety of an antirhinoviral agent, ruprintrivir,
+in healthy volunteers. Antimicrob Agents Chemother 2002; 46:
+392–97.
+129 Hayden FG, Coats T, Kim K, et al. Oral pleconaril treatment of
+picornavirus-associated viral respiratory illness in adults: efficacy and
+tolerability in phase II clinical trials. Antivir Ther 2002; 7:53–65.
+130 Gwaltney JM Jr. Combined antiviral and antimediator treatment of
+rhinovirus colds. J Infect Dis 1992; 166: 776–82.
+131 Gwaltney JM Jr, Winther B, Patrie JT, Hendley JO. Combined
+antiviral-antimediator treatment for the common cold. J Infect Dis
+2002; 186: 147–54.
+132 Belshe RB, Mendelman PM, Treanor J, et al. The efficacy of live
+attenuated, cold-adapted, trivalent, intranasal influenzavirus vaccine
+in children. N Engl J Med 1998; 338: 1405–12.
+133 Nichol KL, Mendelman PM, Mallon KP, et al. Effectiveness of live,
+attenuated intranasal influenza virus vaccine in healthy, working
+adults: a randomized controlled trial. JAMA 1999; 282: 137–44.
+134 Glueck R. Pre-clinical and clinical investigation of the safety of 
+a novel adjuvant for intranasal immunization. Vaccine 2001;
+20(suppl 1) :S42–44.
+135 Crowe JE Jr. Respiratory syncytial virus vaccine development.
+Vaccine 2001; 20(suppl 1) :S32–37.
+136 Lee MS, Greenberg DP, Yeh SH, et al. Antibody responses to
+bovine parainfluenza virus type 3 (PIV3) vaccination and human
+PIV3 infection in young infants. J Infect Dis 2001; 184: 909–13.
+137 Skiadopoulos MH, Tatem JM, Surman SR, et al. The recombinant
+chimeric human parainfluenza virus type 1 vaccine candidate,
+rHPIV3–1cp45, is attenuated, immunogenic, and protective in
+African green monkeys. Vaccine 2002; 20:1846–52.138 Dolin R, Reichman RC, Madore HP, et al. A controlled trial of
+amantadine and rimantadine in the prophylaxis of influenza A
+infection. N Engl J Med 1982; 307: 580–84.
+139 Monto AS, Robinson DP, Herlocher ML, et al. Zanamivir in the
+prevention of influenza among healthy adults: a randomized
+controlled trial. JAMA 1999; 282: 31–35.
+140 Hayden FG, Atmar RL, Schilling M, et al. Use of the selective 
+oral neuraminidase inhibitor oseltamivir to prevent influenza. N Engl J Med 1999; 341: 1336–43.
+141 Hayden FG, Gubareva LV, Monto AS, et al. Inhaled zanamivir for
+the prevention of influenza in families. N Engl J Med 2000; 343:
+1282–89.
+142 Welliver R, Monto AS, Carewicz O, et al. Effectiveness of oseltamivir
+in preventing influenza in household contacts: a randomizedcontrolled trial. JAMA 2001; 285: 748–54.
+143 Douglas RM, Moore BW, Miles HB, et al. Prophylactic efficacy of
+intranasal alpha
+2-interferon against rhinovirus infections in the family
+setting. N Engl J Med 1986; 314: 65–70.
+144 Heikkinen T, Ruohola A, Ruuskanen O, et al. Intranasally
+administered immunoglobulin for the prevention of rhinitis inchildren. Pediatr Infect Dis J 1998; 17:367–72.
+145 Douglas RM, Chalker EB, Treacy B. Vitamin C for preventing 
+and treating the common cold (Cochrane Review). The Cochrane Library , Issue 2. Oxford: Update Software, 2002.
+146 Melchart D, Linde K, Fischer P, Kaesmayr J. Echinacea for
+preventing and treating the common cold (Cochrane Review). The Cochrane Library , Issue 2. Oxford: Update Software, 
+2002.
+147 Warshauer DM, Dick EC, Mandel AD, Flynn TC, Jerde RS.
+Rhinovirus infections in an isolated Antarctic station: transmission of the viruses and susceptibility of the population. Am J Epidemiol
+1989; 129: 319–40.
+148 Takkouche B, Regueira-Méndez C, Garcia-Closas R, et al. Intake of
+wine, beer, and spirits and the risk of clinical common cold. Am J Epidemiol 2002; 155: 853–58.SEMINAR
+THE LANCET • Vol 361 • January 4, 2003 • www.thelancet.com 59Mistakes are lessons of the past 
+H S BawaskarUses of error
+Bawaskar Hospital and Research Center, Mahad Raigad, Maharashtra, India 402301 (H S Bawaskar MD)A 16-year-old boy was bitten on his finger by a krait at 
+0300 h when sleeping on the floor of his hut. He reported tomy clinic at 0500 h. He walked into my examination room,but he had bilateral ptosis, bulbar palsy, and was unable totalk. I gave him antivenom and intravenous atropine and
+neostigamine. As soon as I removed the intravenous needle,
+he vomited, aspirated, and died. A patient paralysed from anelapid snake bite should be treated in a semi-prone positionand intubated. 
+A 6-year-old boy was stung by a scorpion and admitted to
+a rural hospital. I was called to examine the child. He hadsigns suggestive of an autonomic storm. I advised oralprazosin, and the staff nurse handed over the prazosin tablet
+to the mother for administration. The child refused to take
+the tablet, and the mother did not insist, as she was happythat the nurse gave him tetanus toxoid and scorpionantivenin injections. The child developed pulmonaryoedema, and the medical officer transferred him to a cottagehospital without calling me. The child died on the way.Prazosin is an antidote to venom and should be
+administered by a doctor or nurse. One should confirm thatit has started acting by observing lowering blood pressure,improvement in peripheral circulation, a reduction in the
+heart rate and reappearance of local pain at the site of sting
+which was mild or absent due to vasoconstriction. 
+A 62-year-old retired man came alone from Mumbai to
+visit his village. He developed chest pain and bystandersbrought him to my clinic. His electrocardiogram showedan extensive acute anterior myocardial infarction. I sedatedhim and gave him aspirin. I wanted to give him steptok-inase but the bystanders would not pay, as they were notrelatives. He was packed back to Mumbai, where he was
+admitted in cardiogenic shock and died within 
+12 h of admission. We have since kept 1·5 million units ofstreptokinase in the treatment room and given it topatients with acute myocardial infarct, without pre-payment. We have treated 74 patients like this with goodresults.

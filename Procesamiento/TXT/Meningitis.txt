@@ -1,0 +1,709 @@
+December 15, 2010  ◆ Volume 82, Number 12  www.aafp.org/afp  American Family Physician   1491Diagnosis, Initial Management,  
+and Prevention of Meningitis
+DAVID M. BAMBERGER, MD, University of Missouri–Kansas City School of Medicine, Kansas City, Missouri
+ Acute meningitis is a medical emer-
+   gency with a potential for high mor-  
+   bidity and mortality. Bacterial  
+   meningitis is life threatening, 
+and must be distinguished from the more 
+common aseptic (viral) meningitis. With 
+increased use of conjugate vaccines, the 
+annual incidence of bacterial meningitis in 
+the United States declined from 1.9 to 1.5 
+cases per 100,000 persons between 1998 
+and 2003, with an overall mortality rate of 
+15.6 percent.1-3 Incidence rates in developing 
+countries remain significantly higher.
+Etiology
+Age, immunosuppression, and neurosurgical 
+procedures increase the likelihood of infec -
+tion from specific pathogens (Table 1) .3,4 In 
+persons with community-acquired men -
+ingitis, aseptic meningitis is significantly 
+more common than bacterial meningitis;  
+96 percent of children with cerebrospinal fluid 
+(CSF) pleocytosis have aseptic meningitis.5 
+The most common etiologies of aseptic men -
+ingitis are enterovirus, herpes simplex virus 
+(HSV), and Borrelia burgdorferi infections. In 
+adults, the incidence of aseptic meningitis is 
+7.6 cases per 100,000 persons, and the most 
+common etiologies are enterovirus, HSV, 
+and varicella-zoster virus infections.6 Other pathogens and diseases associated with asep -
+tic meningitis include Treponema pallidum, 
+Mycoplasma pneumoniae, Rocky Mountain 
+spotted fever, ehrlichiosis, mumps, lympho -
+cytic choriomeningitis virus, and acute ret -
+roviral syndrome associated with human 
+immunodeficiency virus (HIV) infection. 
+Patients with mosquito-borne arboviral 
+infections (e.g., West Nile virus, St. Louis 
+encephalitis, the California encephali -
+tis group) often present with encephalitis; 
+however, they may present with meningeal 
+involvement alone and no neurologic man -
+ifestations. Seasonality is important in 
+predicting the likelihood of aseptic menin -
+gitis, because most enteroviral and arbovi -
+ral infections occur in the summer or fall in 
+temperate climates. Tuberculous and fungal 
+meningitis are less common in the United 
+States, and usually produce more chronic 
+symptoms. Cryptococcal meningitis is com -
+mon in patients with altered cellular immu -
+nity, especially in those with advanced HIV 
+infection (e.g., CD4 cell count of less than 
+200 cells per mm3 [200 × 109 per L]).
+Clinical  Presentation
+In adults with community-acquired bacte -
+rial meningitis, 25 percent have recent otitis 
+or sinusitis, 12 percent have pneumonia, and Although the annual incidence of bacterial meningitis in the United States is declining, it remains a medical emer -
+gency with a potential for high morbidity and mortality. Clinical signs and symptoms are unreliable in distinguishing 
+bacterial meningitis from the more common forms of aseptic meningitis; therefore, a lumbar puncture with cerebro -
+spinal fluid analysis is recommended. Empiric antimicrobial therapy based on age and risk factors must be started 
+promptly in patients with bacterial meningitis. Empiric therapy should not be delayed, even if a lumbar puncture 
+cannot be performed because results of a computed tomography scan are pending or because the patient is awaiting 
+transfer. Concomitant therapy with dexamethasone initiated before or at the time of antimicrobial therapy has been 
+demonstrated to improve morbidity and mortality in adults with Streptococcus pneumoniae infection. Within the 
+United States, almost 30 percent of strains of pneumococci, the most common etiologic agent of bacterial meningitis, 
+are not susceptible to penicillin. Among adults in developed countries, the mortality rate from bacterial meningitis is 
+21 percent. However, the use of conjugate vaccines has reduced the incidence of bacterial meningitis in children and 
+adults. ( Am Fam Physician. 2010;82(12):1491-1498. Copyright © 2010 American Academy of Family Physicians.)
+▲
+ Patient Information:  
+A handout on the pneumo -
+coccal conjugate vaccine is 
+available at http://family  
+doctor.org/691.xml.
+Downloaded from the American Family Physician Web site at www.aafp.org/afp. Copyright © 2010 American Academy of Family Physicians. For the private, noncommer -
+cial use of one individual user of the Web site. All other rights reserved. Contact copyrights@aafp.org for copyright questions and/or permission requests.Meningitis
+1492  American Family Physician www.aafp.org/afp  Volume 82, Number 12  ◆ December 15, 201016 percent are immunocompromised.7 Typical clinical 
+features are listed in Table 2 .7 At least one of the cardinal 
+features of fever, neck stiffness, and altered mental status 
+is present in 99 to 100 percent of patients with meningi -
+tis; when headache is included, two of the four features 
+are observed in 95 percent of patients with meningitis.7,8 
+The Kernig and Brudzinski signs are poorly sensitive but highly specific for bacterial meningitis.9 Sixty-three per -
+cent of patients with meningococcal meningitis present 
+with a rash that is usually petechial.7 Petechial rash may 
+also be caused by Haemophilus influenzae or Streptococ -
+cus pneumoniae infection. Pneumococcal meningitis is 
+more likely than meningococcal meningitis to be associ -
+ated with seizures, focal neurologic findings, and altered 
+consciousness.
+Compared with younger adults, persons 65 years and 
+older with bacterial meningitis are less likely to have 
+headache, nausea, vomiting, and nuchal rigidity, and 
+are more likely to have seizures and hemiparesis.10 Simi -
+larly, the classical features of bacterial meningitis are not 
+observed as often in younger children, who may present 
+with subtle findings, such as lethargy and irritability.11 
+A recent history of upper respiratory tract infection is 
+common in children with bacterial meningitis; chil -
+dren are also more likely than adults to experience a sei -
+zure.12 The illness course varies, with progression over 
+hours to several days. The clinical features are nonspe -
+cific. For example, in a study of 297 adults who under -
+went a lumbar puncture for suspected meningitis, only  
+80 (27 percent) had any degree of CSF pleocytosis, only 
+20 (6.7 percent) had a white blood cell count of 100 cells 
+per µL [0.10 × 109 per L] or higher, and only three (1 per -
+cent) had culture-confirmed bacterial meningitis.9
+Initial  Evaluation
+Given the lack of specificity of clinical findings, the key 
+to the diagnosis of meningitis is the evaluation of CSF.13 
+The peripheral white blood cell count alone is not help -
+ful in distinguishing bacterial from aseptic meningitis, Table  1. Common  Etiologies  of Bacterial  Meningitis  and Recommended  Empiric  Therapy*
+Population Likely pathogen Empiric therapy
+Infants younger than one month Streptococcus agalactiae (group B streptococcus), Listeria 
+monocytogenes, Escherichia coli, other gram-negative bacilliAmpicillin and cefotaxime 
+(Claforan)
+Children one to 23 months of age Streptococcus pneumoniae, Neisseria meningitidis, S. agalactiae, 
+Haemophilus influenzae, E. coliVancomycin and ceftriaxone 
+(Rocephin)
+Children and adults two to  
+50 years of ageN. meningitidis, S. pneumoniae Vancomycin and ceftriaxone
+Adults older than 50 years, with 
+altered cellular immunity, or 
+with alcoholismS. pneumoniae, N. meningitidis, L. monocytogenes, aerobic gram-
+negative bacilliVancomycin, ceftriaxone, 
+and ampicillin
+Patients with basilar skull fracture 
+or cochlear implantS. pneumoniae, H. influenzae, group A beta-hemolytic streptococci Vancomycin and ceftriaxone
+Patients with penetrating trauma 
+or postneurosurgeryStaphylococcus aureus, coagulase-negative staphylococci, aerobic 
+gram-negative bacilli (including Pseudomonas aeruginosa)Vancomycin and cefepime 
+(Maxipime)
+Patients with cerebrospinal fluid 
+shuntCoagulase-negative staphylococci, S. aureus, aerobic gram-negative 
+bacilli (including P. aeruginosa), Propionibacterium acnesVancomycin and cefepime
+*—In 2002-2003 among all age groups in the United States, 61 percent of bacterial meningitis was caused by S. pneumoniae , 16 percent by 
+N. meningitidis, 14 percent by S. agalactiae (group B streptococcus), 7 percent by H. influenzae, and 2 percent by L. monocytogenes .3 
+Adapted with permission from Tunkel AR, Hartman BJ, Kaplan SL, et al. Practice guidelines for the management of bacterial meningitis. Clin Infect 
+Dis. 2004;39(9):1275, with additional information from reference 3.
+Table  2. Clinical  and Laboratory  Findings   
+in Adults  with  Bacterial  Meningitis
+Clinical or laboratory featureSensitivity 
+(%)
+Two of the following features: fever, neck 
+stiffness, altered mental status, and headache95
+Cerebrospinal fluid white blood cell count  
+≥ 100 per µL (0.10 × 109 per L) 93
+Headache 87
+Neck stiffness 83
+Fever ≥ 100.4°F (38°C) 77
+Nausea 74
+Altered mental status (Glasgow Coma Scale 
+score < 14)69
+Growth of organism in blood culture 66
+Triad of fever, neck stiffness, and altered 
+mental status44
+Focal neurologic signs 33
+Seizure 5
+Papilledema 3
+Information from reference 7.Meningitis
+December 15, 2010  ◆ Volume 82, Number 12  www.aafp.org/afp  American Family Physician   1493particularly in young children (i.e., a normal white blood 
+cell count does not rule out bacterial meningitis).14 Men -
+ingitis should be suspected in patients with those features 
+previously noted that cannot be fully explained by other 
+diagnoses. Lumbar puncture is a safe procedure, although 
+postprocedure headache occurs in about one third of 
+patients.15 (A video of a lumbar puncture is available at 
+http://content.nejm.org/cgi/content/short/355/13/e12.) 
+The concern with lumbar puncture is the poorly quanti -
+fied risk of herniation in patients with a space-occupying 
+lesion or severe diffuse cerebral swelling, and the degree to 
+which the risk can be recognized by a previous computed 
+tomography scan. Life-threatening herniation from lum -
+bar puncture has not been reported in patients who are 
+neurologically unremarkable before the procedure.16
+Based on patient series17 and guidelines,4,18 patients with 
+risk factors for occult intracranial abnormalities should undergo computed tomography of the brain before  
+lumbar puncture. This includes patients with central 
+nervous system disease (including CSF shunts, hydro -
+cephalus, trauma, space-occupying lesions or recent 
+neurosurgery, immunocompromised state, papilledema, 
+focal neurologic signs) and adults with new-onset sei -
+zures or moderately to severely impaired consciousness 
+(Figure 14,16-18). During the initial evaluation of a patient 
+with suspected meningitis, diagnostic and therapeutic 
+maneuvers should begin concomitantly. If a computed 
+tomography scan is required before a lumbar puncture, 
+blood cultures should be obtained, followed by prompt 
+initiation of empiric antimicrobial therapy before the 
+scan. Adjunctive therapy with dexamethasone should be 
+added in adults with suspected S. pneumoniae infection.19
+After CSF is obtained, the Gram stain results, white 
+and red blood cell counts, glucose levels, and protein Initial Management of Suspected Acute Meningitis
+Figure  1. Algorithm for the initial management of suspected acute meningitis. (CSF = cerebrospinal fluid.)
+Information from references 4, and 16 through 18.*—Includes CSF shunts, hydrocephalus, trauma, space-occupying lesions or recent neurosurgery, immunocompromised state, papilledema, or focal 
+neurological signs.Patient presents with suspected meningitis
+Initiate droplet precautions
+Adequate respiratory and circulatory status, 
+and likely normal coagulation status based 
+on history and physical examination?
+Central nervous system disease*; adult with  
+a new-onset seizure or moderately to severely 
+impaired level of consciousness; or delay in 
+ability to perform lumbar puncture?4,16-18Initiate therapy for respiratory, 
+circulatory, and coagulation status
+Perform lumbar puncture 
+and blood cultures
+Obtain blood cultures and initiate antimicrobial therapy
+If patient is an adult with likely pneumonococcal meningitis, 
+initiate concomitant dexamethasone
+Perform computed tomography or magnetic resonance imaging
+CSF suggestive of 
+bacterial meningitis?Perform lumbar puncture
+Reconsider diagnosis based 
+on clinical, laboratory, and 
+radiographic findingsSuspicion of bacterial meningitis 
+remains high based on young age, 
+neutropenia, immunosuppression, or 
+evidence of meningococcal meningitis?
+Continue therapyInitiate (or continue) 
+antimicrobial therapy
+Initiate concomitant 
+dexamethasone in 
+an adult with likely 
+pneumonococcal 
+meningitisReconsider diagnosisYesNo
+Yes
+Scan reveals mass effect 
+or cerebral edema?Spinal fluid cloudy?
+Meningitis likely? Reconsider 
+diagnosisCSF suggestive of 
+bacterial meningitis?
+Yes
+YesNo
+No
+Yes
+Continue therapy NoANo
+No
+NoGo to A
+No YesYesYesMeningitis
+1494  American Family Physician www.aafp.org/afp  Volume 82, Number 12  ◆ December 15, 2010levels should be evaluated immediately. Although no 
+single measure is diagnostic, a combination of abnormal 
+CSF findings is highly suggestive of meningitis and help -
+ful in determining the likely etiology (Table 3) . Rarely, 
+patients with bacterial meningitis may present with nor -
+mal or near-normal white blood cell counts, glucose lev -
+els, and protein levels. This has been observed in young 
+children with neutropenia and other immunocompro -
+mised states, and very early in the course of meningococ -
+cal meningitis.20 Lack of CSF leukocytosis and normal 
+CSF glucose levels are also common in patients with 
+HIV infection and cryptococcal meningitis, but the CSF 
+cryptococcal antigen test is highly sensitive and specific. 
+Patients with partially treated bacterial meningitis and those with Listeria infection may have a CSF profile that 
+is similar to aseptic meningitis. In children who have not 
+received previous antimicrobial agents, clinical decision 
+rules are useful in identifying those at low risk of bac -
+terial meningitis and, if otherwise clinically stable, who 
+are eligible for careful observation without antimicrobial 
+therapy (Table 4).5,21
+Bacterial  Meningitis
+Initial empiric therapy of bacterial meningitis is based 
+on the patient’s age, risk factors, and clinical features 
+(Table 1) .3,4 In patients with suspected bacterial men -
+ingitis, empiric therapy should not be delayed for more 
+than one hour while awaiting diagnostic testing or  Table  4. Clinical  Decision  Rules  to Distinguish  Bacterial  from  Aseptic  Meningitis   
+in Children  with  CSF Pleocytosis*
+Rule Bacterial Meningitis Score  5Meningitest  21
+Exclusion criteria Neurosurgical history
+Immunosuppression
+CSF red blood cell count ≥ 0.01 × 106 per µL 
+(0.01 × 1012 per L)
+Antibiotic use in the previous 48 hours
+PurpuraNeurosurgical history
+Immunosuppression
+CSF red blood cell count ≥ 0.01 × 106 per µL
+Antibiotic use in the previous 48 hours
+Criteria (further evaluation, 
+including lumbar puncture, is 
+needed in patients with one or 
+more findings)Positive CSF Gram stain
+Seizure
+Blood neutrophil count ≥ 10,000 per µL 
+(10.00 × 109 per L)
+CSF neutrophil count ≥ 1,000 per µL 
+(1.00 × 109 per L) 
+CSF protein level ≥ 80 mg per dL (0.80 g per L) Positive CSF Gram stain
+Seizure
+Purpura
+Toxic appearance (irritability, lethargy, or low 
+capillary refill)
+CSF protein level ≥ 50 mg per dL (0.50 g per L) 
+Serum procalcitonin level ≥ 0.5 ng per mL 
+Sensitivity (95% confidence interval) 99 percent (99 to 100) 100 percent (96 to 100)
+CSF = cerebrospinal fluid.
+*—White blood cell count ≥ 10 per µL (0.01 × 109 per L).
+Adapted with permission from Dubos F, Martinot A, Gendrel D, Bréart G, Chalumeau M. Clinical decision rules for evaluating meningitis in children. 
+Curr Opin Neurol. 2009;22(3):292, with additional information from reference 5.Table  3. Typical  CSF Parameters  in Patients  with  Meningitis
+PathogenWhite blood cells  
+per µL ( × 109 per L)Percentage  
+of neutrophils Glucose  
+levelProtein level in  
+mg per dL (g per L)Likelihood of observing 
+organism on CSF stain
+Pyogenic (not Listeria 
+monocytogenes )> 500 (0.50) > 80 Low > 100 (1.00) ~70 percent
+L. monocytogenes > 100 (0.10) ~50 Normal > 50 (0.50) ~30 percent
+Partially treated pyogenic > 100 ~50 Normal > 70 (0.70) ~60 percent
+Aseptic, often viral 10 to 1,000  
+(0.01 to 1.00)Early: > 50
+Late: < 20Normal < 200 (2.00) Not applicable
+Tubercular 50 (0.05) to 500 < 30 Low > 100 Rare
+Fungal 50 to 500 < 30 Low Varies Often high in cryptococcus
+CSF = cerebrospinal fluid.Meningitis
+December 15, 2010  ◆ Volume 82, Number 12  www.aafp.org/afp  American Family Physician   1495transfers.4,18,22,23 Although no prospective comparative 
+trials have been performed, observational studies have 
+found that delays in therapy of as little as two to six hours 
+are associated with adverse outcomes.22,23 Factors associ -
+ated with a delay in antimicrobial therapy include failure 
+to receive antimicrobials before transfer from another 
+facility; performance of head computed tomography 
+before lumbar puncture and antimicrobial administra -
+tion; and the absence of the cardinal features of fever, 
+neck stiffness, and altered mental status. When admin -
+istered just before antimicrobial therapy is initiated, con -
+comitant use of dexamethasone for four days has been 
+shown to reduce mortality and improve neurologic out -
+comes in adults with S. pneumoniae infection.19 It has not been shown to improve outcomes in other patient groups. 
+Studies of patients in the developing world who have a 
+high likelihood of HIV infection have not shown a clear 
+benefit with adjunctive dexamethasone for pyogenic bac -
+terial meningitis.24,25 Fluid management includes treat -
+ment for possible dehydration or hyponatremia from the 
+syndrome of inappropriate antidiuretic hormone.
+After the results of the Gram stain, culture, and sus -
+ceptibility tests are available, specific therapy targeting 
+the pathogen should be administered (Table 5 4,11,16,18,26,27). 
+Blood cultures drawn before antimicrobial administra -
+tion are positive in 61 to 66 percent of patients.5,7 Initia -
+tion of antimicrobials before lumbar puncture decreases 
+the yield of CSF culture, the likelihood of a low CSF Table  5. Pathogen-Specific  Therapy  for Common  Causes  of Bacterial  Meningitis
+Pathogen* Recommended therapyAdult dosage  
+(intravenous) Days of therapy Alternative therapy
+Streptococcus pneumoniae 10 to 14 Meropenem (Merrem), 
+moxifloxacin (Avelox), or 
+chloramphenicolPenicillin MIC:  
+< 0.1 mcg per mLPenicillin 4 million units every  
+four hours
+Penicillin MIC: 0.1 to  
+1 mcg per mLCeftriaxone † (Rocephin) 2 g every 12 hours
+Penicillin MIC:  
+≥ 2 mcg per mL Vancomycin 
+plus 15 to 22.5 mg per 
+kg every 12 hours 
+Ceftriaxone † 2 g every 12 hours
+Ceftriaxone MIC:  
+≥ 1 mcg per mL Vancomycin 
+plus 15 to 22.5 mg per 
+kg every 12 hours 
+Ceftriaxone †‡ 2 g every 12 hours
+Neisseria meningitidis Ceftriaxone † 2 g every 12 hours Five to seven Chloramphenicol, meropenem, 
+or moxifloxacin
+Haemophilus influenzae Ceftriaxone † 2 g every 12 hours Seven to 10 Chloramphenicol or moxifloxacin
+Streptococcus agalactiae 
+(group B streptococcus)Ampicillin 
+plus
+GentamicinUsually in children 14 to 21 Vancomycin or cefotaxime 
+(Claforan)
+Listeria monocytogenes Ampicillin 
+with or without2 g every four hours 21 Trimethoprim/sulfamethoxazole  
+(Bactrim, Septra)
+Gentamicin§ 1 to 2 mg per kg  
+every eight hours
+Enterobacteriaceae Ceftriaxone, ceftazidime 
+(Fortaz), or cefepime 
+(Maxipime)
+with or without
+GentamicinVaries 21 to 28 Ciprofloxacin (Cipro), 
+meropenem, or trimethoprim/
+sulfamethoxazole
+Staphylococci Seven to 10 days 
+after shunt removal 
+or cerebrospinal 
+fluid sterilizationDaptomycin (Cubicin) or 
+linezolid (Zyvox), consider 
+adding rifampinMethicillin susceptible Nafcillin 2 g every four hours
+Methicillin resistant Vancomycin 15 to 22.5 mg per 
+kg every 12 hours
+MIC = minimal inhibitory concentration.
+*—Listed in order of most likely to least likely.
+†—Cefotaxime may be used instead.
+‡—Consider adding rifampin. Vancomycin penetration into cerebrospinal fluid may be diminished with concomitant dexamethasone, but adequate 
+levels are achieved with continuous infusion at 60 mg per kg.27
+§—For the first seven to 10 days.
+Information from references 4, 11, 16, 18, 26, and 27.Meningitis
+1496  American Family Physician www.aafp.org/afp  Volume 82, Number 12  ◆ December 15, 2010glucose level, and the degree of elevation of CSF protein; 
+however, it does not markedly influence the results of 
+CSF Gram stain, which is positive in 60 to 70 percent of 
+patients.26,28 
+Polymerase chain reaction testing of CSF is more 
+sensitive than CSF culture, particularly in patients who 
+received previous antimicrobials.29,30 However, antimi -
+crobial susceptibility testing, which is important in the 
+treatment and prevention of meningitis, can be per -
+formed only when the organism is grown in culture. In 
+one series in the United States, 28 percent of pneumo -
+cocci from patients with meningitis were not susceptible 
+to penicillin, 6 percent were not susceptible to chloram -
+phenicol, 17 percent were not susceptible to meropenem 
+(Merrem), and 12 percent were not susceptible to cefo -
+taxime (Claforan).1 Because of this degree of resistance, 
+the administration of empiric therapy with vancomy -
+cin and a third-generation cephalosporin (cefotaxime 
+or ceftriaxone [Rocephin]) is recommended until the 
+results of susceptibility tests are known.
+Aseptic  Meningitis
+Enteroviruses are the most common etiologic pathogens 
+in persons with aseptic meningitis and do not require 
+specific antimicrobial therapy. They can be diagnosed 
+by CSF polymerase chain reaction testing,6 which is not 
+always needed, but a positive test may be useful in dis -
+continuing antimicrobials initiated presumptively for 
+bacterial meningitis. If suggested by the patient’s sexual 
+or substance use history, it is appropriate to order serum 
+reactive plasma reagin (RPR), CSF Venereal Disease 
+Research Laboratory (VDRL), serum HIV antibody, and 
+serum HIV polymerase chain reaction tests. In acute 
+HIV seroconversion, the serum HIV antibody test may 
+be negative at the time of clinical presentation. 
+HSV aseptic meningitis is usually a self-limited infec -
+tion that must be distinguished from HSV encephalitis 
+based on clinical and radiographic features; therapy with 
+acyclovir (Zovirax) can be lifesaving in patients with 
+HSV encephalitis. In contrast with HSV encephalitis, 
+most patients with HSV aseptic meningitis have normal 
+mental status and neurologic function, and do not have 
+enhancement observed on magnetic resonance imaging 
+of the temporal lobe. Both forms of HSV central nervous 
+system disease are diagnosed by CSF HSV polymerase 
+chain reaction testing. Infection with HSV may cause 
+recurrent disease (e.g., Mollaret meningitis). Varicella-
+zoster virus infection may cause aseptic meningitis in 
+the absence of cutaneous manifestations.6 Although it 
+has not been studied in clinical trials, therapy with acy -
+clovir at 10 mg per kg every eight hours is suggested, based on expert opinion. Central nervous system Lyme 
+disease is treated with ceftriaxone for 14 to 28 days, and 
+central nervous system syphilis is treated with intrave -
+nous penicillin for 10 to 14 days.
+Tuberculous  and Cryptococcal  Meningitis
+A high index of suspicion is needed to diagnose tubercu -
+lous meningitis because culture results are often delayed 
+and stains are often negative. Empiric therapy may be 
+lifesaving. Polymerase chain reaction testing may be use -
+ful. Initial treatment is a combination of isoniazid (5 mg 
+per kg per day in adults, 10 mg per kg per day in children, 
+up to 300 mg); rifampin (10 mg per kg per day in adults,  
+10 to 20 mg per kg per day in children, up to 600 mg); pyr -
+azinamide (15 to 30 mg per kg per day, up to 2 g); and eth -
+ambutol (15 to 25 mg per kg per day). Streptomycin (20 to 
+40 mg per kg per day, up to 1 g) should be used in lieu of 
+ethambutol in young children.31 Adding dexamethasone 
+to the treatment regimen improves mortality in patients 
+older than 14 years with tuberculous meningitis.32
+Cryptococcal meningitis is the most common fungal 
+meningitis, and usually occurs in patients with altered 
+cellular immunity. Initial treatment includes amphoteri -
+cin B (0.7 to 1.0 mg per kg per day intravenously) plus flu -
+cytosine (Ancobon; 25 mg per kg every six hours orally).33
+Prognosis
+The mortality rate in adults with bacterial meningitis in 
+developed countries is 21 percent; it is higher in patients 
+with pneumococcal disease than in those with meningo -
+coccal disease.7 Neurologic sequelae include hearing loss 
+in 14 percent of patients and hemiparesis in 4 percent.7 
+Risk factors for adverse outcomes include advanced age, 
+alteration of mental status on admission, bacteremia, 
+and a CSF white blood cell count of less than 1,000 per µL 
+(1.00 × 109 per L).7 The mortality rate in children with 
+bacterial meningitis is 3 percent; the incidence of stroke 
+in children with bacterial meningitis is 3 percent.34
+Prevention
+Conjugate vaccines for H. influenzae type B and S. pneu -
+moniae initiated in early childhood have been highly effec -
+tive in reducing the incidence of bacterial meningitis, not 
+only in children but also in adults.1,2 Although the overall 
+incidence of pneumococcal meningitis has declined with 
+the use of the conjugate vaccine, the percentage of menin -
+gitis cases caused by nonvaccine serotypes has increased, 
+as did the percentage of isolates that were not susceptible 
+to penicillin and cefotaxime.1 A newer conjugate vaccine 
+for Neisseria meningitidis (active against serogroups A, C, 
+W135, and Y, but not serogroup B) is recommended in all Meningitis
+December 15, 2010  ◆ Volume 82, Number 12  www.aafp.org/afp  American Family Physician   1497children 11 to 18 years of age; freshmen entering college 
+dormitories; travelers to regions in which meningococ -
+cal disease is endemic (e.g., sub-Saharan Africa; Mecca, 
+Saudi Arabia, during the Hajj); and persons with comple -
+ment component deficiencies.35 Patients with functional 
+or anatomic asplenia should receive the meningococcal, pneumococcal, and H. influenzae vaccines. Patients hos -
+pitalized with N. meningitidis infection or meningitis of 
+uncertain etiology require droplet precautions for the 
+first 24 hours of treatment, or until N. meningitidis can 
+be ruled out. Chemoprophylaxis recommendations are 
+listed in Table 6 .11,18,36Table  6. Chemoprophylaxis  for Bacterial  Meningitis
+Pathogen IndicationAntimicrobial  
+agent Dosage Comments
+Neisseria 
+meningitidis 
+(postexposure 
+prophylaxis)Close contact (for more than  
+eight hours) with someone with 
+N. meningitidis infection 
+Contact with oral secretions of 
+someone with N. meningitidis 
+infection Rifampin 
+orAdults: 600 mg every 12 hours for two 
+days
+Children one month or older: 10 mg per 
+kg every 12 hours for two days
+Children younger than one month: 5 mg 
+per kg every 12 hours for two daysNot fully 
+effective and 
+rare resistant 
+isolates
+Ciprofloxacin 
+(Cipro) 
+orAdults: single dose of 500 mg Rare resistant 
+isolates
+Ceftriaxone 
+(Rocephin)Single intramuscular dose of 250 mg  
+(125 mg if younger than 15 years) —
+Haemophilus 
+influenzae 
+(postexposure 
+prophylaxis)Living in a household with 
+one or more unvaccinated or 
+incompletely vaccinated children 
+younger than 48 months Rifampin 20 mg per kg per day, up to 600 mg per 
+day, for four days—
+Streptococcus 
+agalactiae 
+(group B 
+streptococcus; 
+women in the 
+intrapartum 
+period)Previous birth to an infant with 
+invasive S. agalactiae infection
+Colonization at 35 to 37 weeks’ 
+gestation
+Bacteriuria during pregnancy
+High risk because of fever, 
+amniotic fluid rupture for more 
+than 18 hours, or delivery 
+before 37 weeks’ gestationPenicillin G 
+orInitial dose of 5 million units intravenously, 
+then 2.5 to 3 million units every four 
+hours during the intrapartum period—
+If allergic to 
+penicillin:
+Cefazolin
+or 
+2 g followed by 1 g every eight hoursClindamycin 
+susceptibility 
+must be 
+confirmed by 
+antimicrobial 
+susceptibility 
+testClindamycin 
+(Cleocin)
+or900 mg every eight hours
+Vancomycin 15 to 20 mg per kg every 12 hours
+Information from references 11, 18, and 36.SORT: KEY RECOMMENDATIONS FOR PRACTICE
+Clinical recommendationEvidence  
+rating References
+Evaluation of cerebrospinal fluid is key to the diagnosis of meningitis. Decision rules using clinical and 
+laboratory findings are highly sensitive in diagnosing meningitis in children.C 5, 8, 13, 21
+Patients with risk factors for occult intracranial abnormalities should undergo computed tomography of the 
+brain before lumbar puncture.C 17
+If bacterial meningitis is suspected, empiric therapy with antimicrobials should not be delayed for more than 
+one hour in patients awaiting diagnostic testing or transfers.C 4, 18, 22, 23
+Adults with Streptococcus pneumoniae or Mycobacterium tuberculosis infection should receive concomitant 
+dexamethasone with antimicrobial therapy to reduce mortality and improve neurologic outcomes.B 19, 25, 32
+Conjugate vaccines for S. pneumoniae and Haemophilus influenzae type B are recommended for patients 
+in appropriate risk groups to reduce the incidence of bacterial meningitis.B 1, 2
+A = consistent, good-quality patient-oriented evidence; B = inconsistent or limited-quality patient-oriented evidence; C = consensus, disease-
+oriented evidence, usual practice, expert opinion, or case series. For information about the SORT evidence rating system, go to http://www.aafp.
+org/afpsort.xml.Meningitis
+1498  American Family Physician www.aafp.org/afp  Volume 82, Number 12  ◆ December 15, 2010The Author
+DAVID M. BAMBERGER, MD, is a professor of medicine at the University of 
+Missouri–Kansas City School of Medicine. 
+Address correspondence to David M. Bamberger, MD, 2411 Holmes St., 
+Kansas City, MO 64108 (e-mail: bambergerd@umkc.edu). Reprints are 
+not available from the author.
+Author disclosure: Nothing to disclose.
+REFERENCES
+ 1. Hsu HE, Shutt KA, Moore MR, et al. Effect of pneumococcal conjugate vac -
+cine on pneumococcal meningitis. N Engl J Med . 2009;360(3):244-256.
+ 2. Schuchat A, Robinson K, Wenger JD, et al. Bacterial meningitis in the 
+United States in 1995. Active Surveillance Team. N Engl J Med . 1997;
+337(14):970-976.
+ 3. Thigpen MC, Rosenstein N, Whitney CG, et al. Bacterial meningitis in 
+the United States—1998-2003. Paper presented at: 43rd Annual Meet -
+ing of the Infectious Diseases Society of America; October 6-9, 2005; 
+San Francisco, CA. Abstract 65.
+ 4. Tunkel AR, Hartman BJ, Kaplan SL, et al. Practice guidelines for the man -
+agement of bacterial meningitis. Clin Infect Dis . 2004;39(9):1267-1284.
+ 5. Nigrovic LE, Kuppermann N, Macias CG, et al.; Pediatric Emergency 
+Medicine Collaborative Research Committee of the American Acad -
+emy of Pediatrics. Clinical prediction rule for identifying children with 
+cerebrospinal fluid pleocytosis at very low risk of bacterial meningitis. 
+JAMA . 2007;297(1):52-60.
+ 6. Kupila L, Vuorinen T, Vainionpää R, Hukkanen V, Marttila RJ, Kotilainen P.  
+Etiology of aseptic meningitis and encephalitis in an adult population. 
+Neurology . 2006;66(1):75-80.
+ 7. van de Beek D, de Gans J, Spanjaard L, Weisfelt M, Reitsma JB, Ver -
+meulen M. Clinical features and prognostic factors in adults with 
+bacterial meningitis [published correction appears in N Engl J Med . 
+2005;352(9):950]. N Engl J Med . 2004;351(18):1849-1859.
+ 8. Attia J, Hatala R, Cook DJ, Wong JG. The rational clinical examination. Does 
+this adult patient have acute meningitis? JAMA . 1999;282(2):175-181.
+ 9. Thomas KE, Hasbun R, Jekel J, Quagliarello VJ. The diagnostic accuracy 
+of Kernig’s sign, Brudzinski’s sign, and nuchal rigidity in adults with sus -
+pected meningitis. Clin Infect Dis . 2002;35(1):46-52.
+ 10. Cabellos C, Verdaguer R, Olmo M, et al. Community-acquired bacterial 
+meningitis in elderly patients: experience over 30 years. Medicine (Bal -
+timore) . 2009;88(2):115-119.
+ 11. Sáez-Llorens X, McCracken GH Jr. Bacterial meningitis in children. Lan-
+cet. 2003;361(9375):2139-2148.
+ 12. Kaplan SL. Clinical presentations, diagnosis, and prognostic factors of 
+bacterial meningitis. Infect Dis Clin North Am . 1999;13(3):579-594.
+ 13. Straus SE, Thorpe KE, Holroyd-Leduc J. How do I perform a lumbar 
+puncture and analyze the results to diagnose bacterial meningitis? 
+JAMA . 2006;296(16):2012-2022. 
+ 14. Bonsu BK, Harper MB. Utility of the peripheral blood white blood cell 
+count for identifying sick young infants who need lumbar puncture. 
+Ann Emerg Med . 2003;41(2):206-214.
+ 15. Ellenby MS, Tegtmeyer K, Lai S, Braner DA. Videos in clinical medicine. 
+Lumbar puncture. N Engl J Med. 2006;355(13):e12. 
+ 16. Fitch MT, van de Beek D. Emergency diagnosis and treatment of adult 
+meningitis. Lancet Infect Dis . 2007;7(3):191-200.
+ 17. Hasbun R, Abrahams J, Jekel J, Quagliarello VJ. Computed tomography 
+of the head before lumbar puncture in adults with suspected meningi -
+tis. N Engl J Med . 2001;345(24):1727-1733.
+ 18. Chaudhuri A, Martinez-Martin P, Kennedy PG, et al. EFNS guideline on the management of community-acquired bacterial meningitis: report of 
+an EFNS Task Force on acute bacterial meningitis in older children and 
+adults [published correction appears in Eur J Neurol . 2008;15(8):880]. 
+Eur J Neurol . 2008;15(7):649-659.
+ 19. de Gans J, van de Beek D; European Dexamethasone in Adulthood 
+Bacterial Meningitis Study Investigators. Dexamethasone in adults with 
+bacterial meningitis. N Engl J Med . 2002;347(20):1549-1556.
+ 20. Bamberger DM, Smith OJ. Haemophilus influenzae  meningitis in an 
+adult with initially normal cerebrospinal fluid. South Med J . 1990;83(3):
+348-349.
+ 21. Dubos F, Martinot A, Gendrel D, Bréart G, Chalumeau M. Clinical 
+decision rules for evaluating meningitis in children. Curr Opin Neurol . 
+2009;22(3):288-293.
+ 22. Køster-Rasmussen R, Korshin A, Meyer CN. Antibiotic treatment delay 
+and outcome in acute bacterial meningitis. J Infect . 2008;57(6):449-454.
+ 23. Proulx N, Fréchette D, Toye B, Chan J, Kravcik S. Delays in the admin -
+istration of antibiotics are associated with mortality from adult acute 
+bacterial meningitis. QJM . 2005;98(4):291-298.
+ 24. Assiri AM, Alasmari FA, Zimmerman VA, Baddour LM, Erwin PJ, Tleyjeh IM.  
+Corticosteroid administration and outcome of adolescents and adults 
+with acute bacterial meningitis: a meta-analysis. Mayo Clin Proc . 
+2009;84(5):403-409.
+ 25. Greenwood BM. Corticosteroids for acute bacterial meningitis. N Engl 
+J Med . 2007;357(24):2507-2509.
+ 26. van de Beek D, de Gans J, Tunkel AR, Wijdicks EF. Community-acquired 
+bacterial meningitis in adults. N Engl J Med . 2006;354(1):44-53.
+ 27. Ricard JD, Wolff M, Lacherade JC, et al. Levels of vancomycin in cere -
+brospinal fluid of adult patients receiving adjunctive corticosteroids to 
+treat pneumococcal meningitis: a prospective multicenter observational 
+study. Clin Infect Dis . 2007;44(2):250-255.
+ 28. Nigrovic LE, Malley R, Macias CG, et al.; American Academy of Pediat -
+rics, Pediatric Emergency Medicine Collaborative Research Committee. 
+Effect of antibiotic pretreatment on cerebrospinal fluid profiles of chil -
+dren with bacterial meningitis. Pediatrics . 2008;122(4):726-730.
+ 29. Bøving MK, Pedersen LN, Møller JK. Eight-plex PCR and liquid-array detec -
+tion of bacterial and viral pathogens in cerebrospinal fluid from patients 
+with suspected meningitis. J Clin Microbiol . 2009;47(4):908-913.
+ 30. Chiba N, Murayama SY, Morozumi M, et al. Rapid detection of eight 
+causative pathogens for the diagnosis of bacterial meningitis by real-
+time PCR. J Infect Chemother . 2009;15(2):92-98.
+ 31. Blumberg HM, et al. American Thoracic Society/Centers for Disease 
+Control and Prevention/Infectious Diseases Society of America: treat -
+ment of tuberculosis. Am J Respir Crit Care Med . 2003;167(4):603-662.
+ 32. Thwaites GE, Nguyen DB, Nguyen HD, et al. Dexamethasone for the 
+treatment of tuberculous meningitis in adolescents and adults. N Engl 
+J Med . 2004;351(17):1741-1751.
+ 33. Perfect JR, Dismukes WE, Dromer F, et al. Clinical practice guidelines for 
+the management of cryptococcal disease: 2010 update by the Infectious 
+Diseases Society of America. Clin Infect Dis . 2010;50(3):291-322.
+ 34. Nigrovic LE, Kuppermann N, Malley R; Bacterial Meningitis Study Group 
+of the Pediatric Emergency Medicine Collaborative Research Committee 
+of the American Academy of Pediatrics. Children with bacterial menin -
+gitis presenting to the emergency department during the pneumococ -
+cal conjugate vaccine era. Acad Emerg Med . 2008;15(6):522-528.
+ 35. Centers for Disease Control and Prevention (CDC) Advisory Committee 
+on Immunization Practices. Revised recommenations of the Advisory 
+Committee on Immunization Practices to Vaccinate all Persons Aged 
+11-18 Years with Meningococcal Conjugate Vaccine. MMWR Morb 
+Mortal Wkly Rep. 2007;56(31):794-795.
+ 36. Division of Bacterial Diseases, National Center for Immunization and 
+Respiratory Diseases. Prevention of perinatal group B streptococcal 
+disease—revised guidelines from CDC, 2010. MMWR Recomm Rep . 
+2010;59(RR-10):1-36.
