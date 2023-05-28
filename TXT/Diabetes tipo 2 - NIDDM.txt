@@ -1,0 +1,741 @@
+COMMENTARY
+Screening for NIDDM
+Opportunities for detection, treatment, and
+prevention
+WILLIAM C. KNOWLER, MD, DRPH
+Although non-insulin-dependent di-
+abetes mellitus (NIDDM) is a com-
+mon and serious disease, in the U.S.
+about half of the people with this disease
+are unaware of it. Approximately four
+million Americans 20-74 years of age
+have undiagnosed NIDDM (1), making
+this disease  a candidate for early detection
+and treatment (2).  I will present my views
+on the principles of screening as applied
+to NIDDM and on the benefits, costs,
+methods, and unanswered questions re-
+garding the screening and diagnosis of
+this disease.
+In NIDDM, the affected person,
+whether diagnosed or not, does not re-
+quire exogenous insulin to prevent keto-
+acidosis and death (3,4). NIDDM may becaused by the known, but relatively un-common, genetic defects; but more com-
+monly, the primary causes are still un-
+known. NIDDM also includes some cases
+of type
+ 1 diabetes caused by autoimmune
+or infectious islet cell destruction that
+have not yet progressed to insulin-depen-
+dent diabetes mellitus (IDDM).
+No universal agreement exists on
+diagnostic criteria for NIDDM in men and
+in nonpregnant women, and discrepan-
+cies between criteria are even greater inpregnancy. All criteria in common use are
+based on some measure of hyperglyce-
+mia, but the distribution of fasting or
+postload glucose concentrations in popu-
+lations is continuous. Different groups of
+investigators have arbitrarily divided the
+continuum into several classes, which in-clude normal glucose tolerance, nondiag-nostic results (3), impaired glucose toler-
+ance (IGT) (3,4), impaired fasting glucose
+(5), and diabetes (3,4). I point out these
+classification complexities to emphasize
+that hyperglycemia is a continuum and
+that the choice of cut-off points for defin-
+ing diabetes is rather arbitrary.
+Because of the serious conse-
+quences of diabetes in pregnancy to the
+mother and child, and evidence that treat-
+ment of diabetes in pregnancy improves
+the outcomes, all pregnant women
+should be tested for diabetes. This topic,
+including discussion of testing methods,
+is well discussed elsewhere (3,4,6-9) and
+will not be covered here.
+Principles of screening
+Screening is the use of a simple test to
+discriminate between people who arelikely to have a disease and those who are
+likely not to have it. By implication, a dif-
+From the National Institute of Diabetes and Digestive and Kidney Diseases, Phoenix, Arizona.
+Address correspondence to William
+ C. Knowler,  MD,  DrPH, 1550 East Indian School Road,
+Phoenix,  AZ 85014.
+NIDDM, non-insulin-dependent diabetes mellitus;  IDDM,  insulin-dependent diabetes melli-
+tus; IGT, imparied glucose tolerance; OGTT, oral glucose tolerance test; NDDG, National Dia-
+betes Data Group; WHO, World Health Organization; ACE, angiotensin-converting enzyme;
+I:PG, fasting plasma glucose.ferent, definitive diagnostic procedure
+confirms the presence or absence of the
+disease. Screening can be conducted in
+different settings, including testing people
+seeking medical attention for other rea-
+sons,  whether or not the disease is sus-
+pected. Screening also includes programs
+for testing people not seeking medical at-tention (e.g., the general population). A
+screening test suitable for widespread use
+should be simple, inexpensive, and cause
+little discomfort or harm, whereas
+ a defin-
+itive test would be impractical for such
+use. For example, testing for occult fecal
+blood is a screening test for colon cancer,
+whereas the definitive tests might include
+much more invasive and expensive pro-cedures such as X-ray contrast studies,
+colonoscopy, and biopsy.
+Screening for NIDDM is different
+in that several tests can be considered ei-
+ther screening or diagnostic tests. The Na-tional Diabetes Data Group (NDDG) (3)
+and the World Health Organization
+(WHO) (4) published diagnostic criteria
+based on the oral glucose tolerance test
+(OGTT), but these criteria differ in some
+important respects (10). The WHO andNDDG criteria have been widely adopted
+in research, but they are not specific
+about diagnostic levels of hyperglycemia
+in the presence of symptoms or otherclinical indications of diabetes and, ap-propriately, do not recommend an OGTT
+for the diagnosis of diabetes in these situ-
+ations. For example, they recommend
+that in the presence of symptoms (which
+are impractical to define quantitatively)
+the diagnosis can be made from fasting or
+nonfasting blood or plasma glucose mea-
+surements. Because measurement of glu-
+cose is a simple, inexpensive, minimallyinvasive test that is applied widely inmedical practice, it can also be considereda screening test.
+There is little question that diag-
+nosing the cause of
+ a patient's complaints
+is beneficial, but it is uncertain whether
+screening people who do not seek medi-
+cal attention and may have no symptoms
+from the disease is warranted. Extensive
+DIABETES CARE, VOLUME 17, NUMBER 5, MAY 1994 445Downloaded from http://diabetesjournals.org/care/article-pdf/17/5/445/515857/17-5-445.pdf by guest on 28 May 2023
+Commentary
+literature describes the requirements for a
+worthwhile screening activity (11). I di-
+vide these requirements into three parts:
+the nature of the disease, the nature of the
+available screening and diagnostic meth-
+ods, and organizational needs.
+Nature of the disease. For people who
+are asymptomatic or not seeking medicalattention to benefit from diagnosis, 1) the
+disease should be serious enough to war-
+rant medical attention; 2) effective treat-
+ment should be available; and 3) the
+prognosis should be better if the disease isdiagnosed and treated early rather thanlate or never.
+The availability of treatment en-
+compasses not only the existence of ther-apeutic knowledge but also the socio-
+economic resources needed to provide
+the treatment. Sometimes these are devel-
+oped in conjunction with, or
+ as a result of,
+screening programs. By prognosis, I in-clude not only therapeutic benefits but
+also the costs and side effects of the treat-
+ments and of
+ the diagnostic labeling  itself.
+NIDDM meets at least some of
+these criteria. The disease is unquestion-
+ably serious, and in developed countriestreatments are generally available.
+Whether the prognosis is improved by
+early diagnosis is discussed below.
+Nature of the screening and diagnosticmethods. To justify use in people who
+are not seeking medical attention for a
+sign or symptom of the disease, thescreening and diagnostic methods shouldhave the following attributes: J) high ac-
+curacy (i.e., sensitivity, specificity, andpredictive value); and 2) low cost, incon-venience, and discomfort relative to thebenefits of a diagnosis.
+Ambiguity about accuracy of
+screening tests for NIDDM results fromuncertainty in the diagnostic criteria
+themselves. There is disagreement about
+what tests (e.g., fasting glucose or OGTT)
+and diagnostic levels should be used. Be-cause the screening and diagnostic meth-ods for NIDDM are interchangeable, in
+my view, the question of accuracy ofscreening methods becomes primarily
+one of choosing the best diagnostic test(see methods). Costs of most tests forNIDDM are relatively low. The disease
+prevalence in the screened population is
+ a
+determinant of the cost per diagnosis; the
+rarer the disease, the greater the cost.Organizational requirements forscreening. If screening for NIDDM oc-
+curs in the course of medical care, theprovision of appropriate interpretation
+and follow-up of the screening test results
+should not be problematic. This issue
+must be dealt with, however, if screeningis performed elsewhere (i.e., communityscreening). A system should be estab-
+lished for inviting, testing, and notifyingsubjects, and most importantly, for fol-low-up evaluation and treatment whenindicated. Details of most of these points
+are discussed elsewhere (11) and,
+ specif-
+ically regarding NIDDM, by the American
+Diabetes Association's position statementon screening for diabetes (12).
+Indications for screening and
+diagnostic testing
+According to these principles of screen-
+ing, identifying previously undiagnosed
+people with NIDDM is worthwhile, at
+least in many settings. I will discuss these
+situations in decreasing order of my as-
+sessment of the potential benefit-to-cost
+ratio.
+Symptoms or signs that suggest diabe-
+tes. There is little argument that people
+with signs or symptoms that suggest dia-
+betes warrant a diagnostic workup.
+Other conditions associated with dia-
+betes.  NIDDM is associated with many
+other diseases or conditions, including
+coronary artery disease, hypertension, re-
+nal disease (microalbuminuria, protein-uria, and renal insufficiency), eye diseases
+(retinopathy, cataract, and changing vi-
+sual acuity), hyperlipidemia, peripheral
+vascular disease, neuropathy, medial ar-
+terial calcification, and periodontitis. Aclinician caring for a patient with one of
+these conditions should consider diabetes
+and in many cases test for it.
+Presence of indicators of high risk of
+NIDDM. People with first-degree rela-
+tives with NIDDM, members of ethnicgroups with a high risk of NIDDM (e.g.,
+American Indians, Pacific Islanders, His-
+panic Americans), and obese and older
+people are more likely to have NIDDM.
+Thus,  a screening program for such peo-
+ple will detect a higher proportion ofcases of NIDDM. This is favorable in
+terms of the cost per diagnosis but does
+not necessarily imply that such peoplewill derive more benefit from the diagno-
+sis than those without such risk indica-
+tors.
+General population. The least certain
+group for screening is the general popu-lation. Because many people with
+NIDDM detected through such screening
+have few signs or symptoms attributable
+to diabetes, they may receive little imme-
+diate benefit from a diagnosis and treat-
+ment. The possibility of other benefits is
+discussed in
+ benefits.  The degree of hyper-
+glycemia is likely to affect the benefit-to-
+cost ratio. Those with a greater degree ofhyperglycemia probably have a worseprognosis, which may be improved byearly diagnosis and treatment, than those
+whose degree of hyperglycemia barely
+qualifies them for a diagnosis of NIDDM.
+Benefits of screening and diagnosis
+People with symptoms attributable to
+diabetes. Because symptoms attributable
+to hyperglycemia can usually be readily
+relieved by hypoglycemic therapy, people
+with symptomatic diabetes should benefit
+from a diagnosis followed by appropriate
+treatment. The diagnosis will often also
+lead to recognition of other associated
+conditions or chronic diseases for which
+treatment may also be beneficial.People with diabetes and no or mini-
+mal symptoms. The potential values of
+diagnosis and treatment to control hy-
+perglycemia and other factors, such as
+hypertension and hyperlipidemia, are to
+prevent 1) symptoms or acute complica-
+tions;  and 2) the long-term vascular, re-
+nal, and neural complications. This dis-
+cussion of prevention of long-termcomplications also applies to people with
+symptomatic diabetes.
+The value of treatment to prevent
+446 DIABETES CARE, VOLUME 17, NUMBER 5, MAY 1994Downloaded from http://diabetesjournals.org/care/article-pdf/17/5/445/515857/17-5-445.pdf by guest on 28 May 2023
+Knowler
+symptoms and acute complications is ob-
+vious,  but the prevention of long-term
+complications is more controversial.
+Among those with diabetes, the degree of
+hyperglycemia, whether measured by
+glycated hemoglobin or fasting or post-
+load plasma glucose (13), is associated
+with the risk of microvascular complica-
+tions.  Two randomized clinical trials have
+shown that in IDDM patients, intensive
+insulin treatment improves glycemic con-
+trol and decreases the incidence rates andrates of progression of several complica-
+tions (14,15). Although these studies
+were performed only in IDDM patients, I
+believe, as do others (16), that they con-
+firm the hypothesis that hyperglycemia
+(or associated abnormalities that are in-
+fluenced by insulin treatment) is causally
+related to these complications. If
+ so, then
+lowering glycemia in NIDDM will also be
+beneficial. The challenge in extrapolating
+the results of studies in IDDM to NIDDM
+is in choosing the best way to lower gly-cemia because more treatment options
+are available, including sulfonylurea and
+biguanide drugs and nonpharmacological
+means. The optimal choice of hypoglyce-mic therapy in NIDDM is far from obvi-
+ous because of a serious lack of relevant
+clinical trial data. In a pioneering study of
+this question, the University Group Dia-
+betes Program did not provide strong ev-
+idence that any form of treatment for
+asymptomatic NIDDM prevented the
+long-term complications (17). The U.K.
+Prospective Study of Therapies of Maturi-
+ty-Onset Diabetes (18), a multicentered
+clinical trial of treatment of NIDDM cur-
+rently in progress, will provide additional
+data on this critical question.
+High blood pressure predicts the
+development of diabetic nephropathy in
+NIDDM, and antihypertensive treatmentdecreases the rate of progression of renal
+disease in NIDDM (19,20). The effect of atleast some antihypertensive drugs, such
+as angiotensin-converting enzyme (ACE)
+inhibitors, may be independent of theireffect on lowering blood pressure (21,22)
+and may in fact benefit people withNIDDM and normal blood pressure. Animportant question, which affects assess-
+ment of the value of screening or early
+diagnosis, is whether people withNIDDM of short duration, regardless of
+blood pressure or albumin excretion rate,
+should be treated with ACE inhibitors to
+prevent or retard the development of ne-
+phropathy and possibly cardiovascular
+disease. I believe such a recommendation
+cannot be made from existing evidence,
+but clinical trials of this question are ex-
+tremely important. Evidence favoring
+such treatment would be, in my opinion,
+the strongest argument yet for screening
+for NIDDM, especially in populations in
+which diabetic nephropathy is the most
+serious and life-threatening complica-tion.
+We need clinical trials not only of
+treatment effects in NIDDM, but also of
+screening
+ itself,  to determine whether
+treatments are more beneficial when
+started early, as a result of screening, than
+when initiated only after patients would
+otherwise receive medical attention.
+People with genetic susceptibility fac-
+tors. The possibility of screening for peo-
+ple with diabetes-susceptibility alleles at
+genetic loci known to influence the risk of
+NIDDM (23-27) is so new that little dis-
+cussion has taken place about the thera-
+peutic implications, let alone clinical tri-
+als. As the ability to identify diabetes-
+susceptibility genes increases, these
+questions will become more pressing.
+Some of the benefit-cost issues in detect-
+ing susceptibility alleles in people with orwithout NIDDM are similar to those of
+diagnosing NIDDM, but knowledge of agenetic mechanism may lead to better
+therapeutic or preventive methods, and
+the ability to screen early in life, at or be-fore birth, might drastically alter the ap-
+proach to prevention.
+General health benefits and the preven-tion of NIDDM. A diagnosis of NIDDM
+will not provide optimal benefit unless it
+is accompanied by a health assessment
+during which other conditions that re-quire treatment may also be detected.
+Many treatment approaches to NIDDM,
+especially those emphasizing dietarymodification, exercise, and weight loss,
+can be expected to improve not only thehyperglycemia of NIDDM but also associ-
+ated conditions such as hypertension,hyperlipidemia, and atherosclerotic vas-
+cular disease. The value of these interven-
+tions does not necessarily depend on thepresence or diagnosis of NIDDM and
+hence may not depend on screening for
+NIDDM. Knowledge of the degree of hy-perglycemia (assessed by measuring glu-
+cose or glycated hemoglobin) may, how-ever, be helpful as part of an overall health
+assessment and influence the choice of
+therapy.
+Treatment of people with IGT or
+other high-risk characteristics may pre-
+vent or delay NIDDM (28-30). Besides
+identifying people with undiagnosed
+NIDDM, screening programs uncover
+many with such high-risk characteristics,but no clear scientifically based treatment
+has been found to offer these people. The
+general health promotion measures dis-
+cussed in the preceding paragraph should
+be beneficial but how to use the data on
+glycemia is unknown. My colleagues and
+I have strongly advocated diabetes pre-
+vention clinical trials in such people (29-
+32). Fortunately, answers to some of
+these basic clinical questions should be
+obtained from the planned U.S. random-ized study Non-Insulin-Dependent Dia-
+betes Primary Prevention Trial, in which
+treatment of people with high-risk char-
+acteristics such as IGT and those with
+newly discovered NIDDM, but withoutsevere hyperglycemia, will be tested (33).
+Adverse effects of screening and
+diagnosis
+As do all medical procedures, screening
+and diagnostic tests for NIDDM have
+costs:  economic, psycho-social, and med-
+ical. I will discuss the latter two.
+Although offering the hope of im-
+proved prognosis through early treat-
+ment, a new diagnosis of NIDDM is very
+alarming and can transform an apparently
+healthy person into one who is aware of
+and frightened by having  a serious illness.
+An NIDDM diagnosis may also affect
+DIABETES CARE, VOLUME 17, NUMBER 5, MAY 1994 447Downloaded from http://diabetesjournals.org/care/article-pdf/17/5/445/515857/17-5-445.pdf by guest on 28 May 2023
+Commentary
+one's ability to obtain insurance and em-
+ployment. From a medical standpoint,
+the diagnosis exposes a person to addi-
+tional testing, follow-up, and treatment
+that may be bothersome, unpleasant, or
+even hazardous. The treatment may in-clude diet and exercise programs andsometimes drugs with potentially serious
+or fatal side effects. Screening without ad-
+equate follow-up has additional dangers.Because of the high variability of the tests,a normal person may be found to be ab-normal, a result that could lead to inap-
+propriate diagnosis and treatment if notproperly followed up. Conversely, a per-son with NIDDM or at high risk of devel-
+oping it could be falsely reassured by anormal screening test and thus delay
+seeking needed
+ care.  These adverse effects
+are not sufficient reason to oppose screen-
+ing for NIDDM, but they must be consid-
+ered along with the potential benefits.
+Methods of screening and diagnostic
+testing
+Testing for NIDDM in nonpregnant
+people. The necessary test for NIDDM
+depends on the diagnostic goal. If a pa-
+tient has severe hyperglycemia, a clinical
+suspicion of diabetes can be confirmed by
+any of  a number of simple tests, including
+fasting plasma, serum, or blood glucose;
+glycated hemoglobin; or glycosuria by
+dipstick or quantitative glucose measure-ment. Each test is very sensitive in detect-
+ing NIDDM with severe hyperglycemia
+(34).
+Diabetes with less severe hyper-
+glycemia  is more difficult to diagnose. The
+simplest tests, such as glycosuria or non-
+fasting blood glucose, are not well stan-
+dardized because of variations in renalthreshold and effects of time of day and
+last meal. To diagnose diabetes withoutsevere hyperglycemia, more standardized
+tests,  such as fasting plasma glucose
+(FPG) or OGTT, are needed. Even these
+tests,  at the thresholds specified by the
+WHO criteria for diabetes, detect differ-
+ent conditions. The WHO FPG criterion
+for diabetes (^7.8 mM or 140 mg/dl) re-
+flects much greater hyperglycemia thanthe 2-h postload plasma glucose criterion
+for diabetes (>  11.1  mM or 200  mg/dl).  In
+the U.S. National Health and Nutrition
+Examination Survey, 89% of those meet-
+ing the fasting glucose criterion also met
+the 2-h criterion, but only 26% of those
+with diabetes by WHO criteria had an
+FPG level >7.8 mM (10).
+No simple answer can be found to
+the question of which test (fasting glucose
+or OGTT) should be used for either a
+screening or diagnostic test. Fasting glu-
+cose by WHO criteria will diagnose fewer
+people, but they will have more severe
+hyperglycemia (except for those who didnot actually fast for the test). The differ-
+ence,  however, is not between a fasting or
+postload test, per se, but in the diagnosticlevels chosen for each one. Thus, the de-cision rests on the balance between bene-
+fit and cost, which may depend on the
+degree of hyperglycemia to be detected.
+Both fasting and postload plasma
+glucose measures are strongly related to
+the presence or future development of the
+microvascular complications of diabetes,
+and, in populations with high prevalence
+rates of NIDDM, both have bimodal fre-
+quency distributions, which suggests a
+natural division between diabetic and
+nondiabetic people. Considerationshould not be restricted to these two mea-
+sures,  however, because these same prop-
+erties are shared by glycated hemoglobin.
+Among Pima Indians, all three measures
+(fasting glucose, 2-h glucose, and gly-
+cated hemoglobin) are equivalent as pre-
+dictors of diabetic retinopathy in those
+with diabetes diagnosed by WHO criteria
+(13) or in the entire population (35). We
+have thus suggested that no particular ad-
+vantage lies in the conventional diagnos-
+tic methods based on fasting glucose orthe OGTT, and when it is more conve-
+nient, diagnosis could also be made by
+glycated hemoglobin (35). This test hasthe advantage, both in large-scale screen-ing programs and in routine clinical prac-
+tice, of not requiring the subject to fast or
+to spend 2 hours being tested. The disad-
+vantages of glycated hemoglobin as a di-
+agnostic test are that the methods arepoorly standardized and less outcomedata are available than for the OGTT. In
+many settings, the laboratory, personnel,
+and logistic costs incurred in measuring
+glycated hemoglobin are less than thoseof obtaining fasting blood or performingan OGTT. In these settings, the glycated
+hemoglobin test is, in my opinion, thepreferred screening and diagnostic test
+for NIDDM.
+Testing for people with high-risk con-
+ditions such as IGT. Given the impreci-
+sion of the tests and the uncertainties
+about the appropriate diagnostic levels, a
+fuzzy boundary exists between diabetesand high-risk conditions such as IGT.During the process of screening and diag-
+nosing NIDDM, regardless of the method
+and diagnostic levels used, many people
+will be found whose test results are justbelow the diagnostic level and who are at
+increased risk of developing diabetes in
+the future (or of being diagnosed if retest-
+ed). In people without diabetes, many
+factors, such as IGT, obesity, fasting hy-
+perinsulinemia, and others listed in Indi-
+cations,  predict its development or indi-
+cate a greater likelihood of undiagnosed
+diabetes. In addition, it has recently be-
+come possible to identify some people ge-
+netically at high risk of NIDDM by virtue
+of carrying abnormal alleles at the glu-cokinase, insulin, or other genetic loci
+(23-27).  I predict that the ability to iden-
+tify people with genetic susceptibility to
+NIDDM will increase greatly in the next
+few years.  Certain HLA-DR and -DQ (hu-
+man leukocyte antigen) types and anti-bodies to islet cells and GAD (glutamic
+acid decarboxylase) also indicate higherrisk of diabetes that is primarily IDDM,
+but may include some people with or at
+high risk for developing NIDDM.
+Conclusions and recommendations
+NIDDM is a common disease that is often
+disabling or fatal, but approximately half
+of the adults with the disease are undiag-
+nosed. NIDDM, which is easily detectedin routine medical practice or populationscreening programs, is thus an obvious
+448 DIABETES CARE, VOLUME 17, NUMBER 5, MAY 1994Downloaded from http://diabetesjournals.org/care/article-pdf/17/5/445/515857/17-5-445.pdf by guest on 28 May 2023
+Knowler
+candidate for increased efforts for screen-
+ing and diagnosis.
+The major controversy centers
+around which people will benefit from
+discovering the undiagnosed disease. A
+broad spectrum of people can be found,
+ranging from pregnant diabetic women
+and others with symptoms of diabetes, for
+whom diagnosis and treatment are clearlyindicated, to asymptomatic people who
+have IGT or barely satisfy diagnostic cri-
+teria for diabetes, for whom the benefits
+of treatment or the optimal form of treat-
+ment are unknown. For these people, aswell as those with other high-risk condi-
+tions (including genetic susceptibility),
+we need guidance from clinical trials.There is great hope that early interven-
+tions,  such as treatment of  IGT to prevent
+NIDDM or treatment of new-onset
+NIDDM with ACE inhibitors to prevent
+nephropathy, may be very beneficial in
+the long run, but we do not yet have suf-ficient evidence to recommend these
+measures except in the context of re-
+search studies.
+1 believe screening and diagnostic
+procedures are clearly indicated for preg-nant women and people with symptoms
+or signs suspected of being caused by di-
+abetes and for those with diseases often
+associated with diabetes for whom diag-
+nosis and treatment of diabetes wouldhelp in their management. If screening is
+performed in other situations without a
+research component, relatively stringentdiagnostic criteria should be employed to
+increase the probability that people de-
+tected will benefit from treatment.
+There is insufficient evidence that
+widespread population screening forNIDDM is beneficial, but there seems to
+be
+ a high probability that such benefit will
+be demonstrated by appropriate research
+studies, which need to be encouraged.
+Such research should also evaluate
+screening and diagnostic methods other
+than fasting glucose and the OGTT. Gly-
+cated hemoglobin appears to have the
+same desirable properties for a screeningor diagnostic test plus many practical ad-
+vantages.Population screening programs
+for diabetes should usually be combined
+with screening for other treatable chronic
+diseases or risk factors. This is especiallytrue in populations with a low prevalenceof NIDDM, in which the value of screen-
+ing for other conditions may be greater
+than for NIDDM. General recommenda-
+tions regarding screening for diabetes-
+susceptibility genes are premature, but
+discussion of these topics will soon be-
+come much more important.
+Screening and diagnosis are only
+the beginning of
+ a process of helping peo-
+ple with undiagnosed NIDDM. Equally
+important are determining the optimal
+treatments for people with differing de-
+grees of abnormality or with different
+causes of NIDDM and ensuring that when
+effective treatments are known, they are
+made available.
+Acknowledgments— I am indebted to the
+members of the Gila River Indian Community
+of Arizona for teaching me about NIDDM and
+the people affected by it. I thank  Drs.  Robert L.
+Hanson, Venkat Narayan, Robert G. Nelson,
+David J. Pettitt, and Peter  H. Bennett for advice
+on this paper.
+References
+1. Harris MI, Hadden WC, Knowler WC,
+Bennett PH: Prevalence of diabetes and
+impaired glucose tolerance and plasmaglucose levels in the
+ U.S.  population aged
+20-74 years.  Diabetes  36:523-534, 1987
+2. Bennett PH, Knowler  WC:  Early detection
+and intervention in diabetes mellitus: is iteffective?J
+ Chron Dis  37:653-666, 1984
+3. National Diabetes Data Group: Classifica-
+tion and diagnosis of diabetes mellitus
+and other categories of glucose intoler-
+ance.  Diabetes  28:1039-1057, 1979
+4. World Health Organization:  Diabetes  Mel-
+litus: Report of a WHO Study Group. Ge-
+neva, World Health Org., 1985 (Tech.
+Rep. Ser., no. 727)
+5. Charles MA, Fontbonne A, Thibult N,
+Warnet J-M, Rosselin GE, Eschwege E:
+Risk factors for NIDDM in white popula-tion: Paris Prospective Study.
+ Diabetes  40:796-799, 1991
+6. Proceedings of the Second International
+Workshop-Conference on Gestational
+Diabetes Mellitus.  Diabetes  34 (Suppl. 2):
+1-126,  1985
+7. Proceedings of the Third International
+Workshop-Conference on Gestational
+Diabetes Mellitus.  Diabetes  40 (Suppl. 2):
+1-201, 1991
+8. Pettitt DJ, Baird HR, Aleck KA, Bennett
+PH, Knowler WC: Excessive obesity in
+offspring of Pima Indian women with di-
+abetes during pregnancy. New  EnglJ Med
+308:242-245, 1983
+9. Pettitt DJ, Aleck KA, Baird HR, Carraher
+MJ, Bennett  PH, Knowler  WC:  Congenital
+susceptibility to non-insulin-dependent
+diabetes mellitus: role of intrauterine en-
+vironment.  Diabetes  37:622-628, 1988
+10. Harris MI, Hadden WC, Knowler WC,
+Bennett PH: International criteria for thediagnosis of diabetes and impaired glu-
+cose tolerance.
+ Diabetes Care  8:562-567,
+1985
+11. Burr  ML, Elwood  PC: Research and devel-
+opment of health promotion services—
+screening. In Oxford Textbook of  Public
+Health: Investigative Methods in PublicHealth. Vol. 3. Holland WH, Detels R,
+Knox G, Breeze E, Eds. Oxford, Oxford
+University Press, 1985, p. 373-384
+12. American Diabetes Association: Screen-
+ing for diabetes.  Diabetes  Care 12:588-
+590, 1989
+13. Liu QZ, Pettitt DJ, Hanson RL, Charles
+MA, Klein R, Bennett PH, Knowler WC:
+Glycated haemoglobin, plasma glucose
+and diabetic retinopathy: cross-sectional
+and prospective analyses.  Diabetologia  36:
+428-432, 1993
+14. Reichard P, Nilsson B-Y, Rosenqvist U:
+The effect of long-term intensified insulin
+treatment on the development of micro-
+vascular complications of diabetes melli-
+tus. New  EnglJ Med  329:304-209, 1993
+15. The Diabetes Control and Complications
+Trial Research  Group:  The effect of intensive
+treatment of diabetes on the development
+and progression of long-term complications
+in insulin-dependent diabetes mellitus.
+New EnglJ Med  329:977-986,1993
+16. American Diabetes Association: Implica-
+tions of  the Diabetes Control and Compli-
+cations Trial. Diabetes Care 16:1517-
+DlABETES CARE, VOLUME 17, NUMBER 5, MAY 1994 449Downloaded from http://diabetesjournals.org/care/article-pdf/17/5/445/515857/17-5-445.pdf by guest on 28 May 2023
+Commentary
+1520,1993
+17. University Group Diabetes Program: Ef-
+fects of hypoglycemic agents on vascular
+complications in patients with adult-
+onset diabetes. VIII. Evaluation of insulintherapy: final report.
+ Diabetes  31 (Suppl.
+5):1-81,  1982
+18. U.K. Prospective Study of Therapies of
+Maturity-Onset Diabetes. I: Effect of diet,
+sulphonylurea, insulin, or biguanide
+therapy on fasting plasma glucose and
+body weight over one year.  Diabetologia
+24:404-411,  1983
+19. Arky RA, Caro JF, Johnson C, Knowler
+WC, McManus K, Moore MA, Sheps SG,
+Simonson DC, Spratt I: Treatment of hy-
+pertension in diabetes.  Diabetes  Care 16:
+1394-1401,  1993
+20. Ravid M, Savin  H, Jutrin I, Bental T, Katz
+B, Lishner  M: Long- term stabilizing effect
+of angiotensin-converting enzyme inhibi-tion on plasma creatinine and on protein-
+uria in normotensive type II diabetic pa-
+tients.  Ann Intern Ued 118:577-581,
+1993
+21. Kasiske BL, Kalil RSN, Ma JZ, Liao M,
+Keane WF: Effect of antihypertensivetherapy on the kidney in patients with di-
+abetes:
+ a meta-regression  analysis.  Ann In-
+tern Ued 118:129-138, 1993
+22. Lewis EJ, Hunsicker LG, Bain RP, Rohde
+RD, the Collaborative Study Group: The
+effect of angiotensin-converting-enzymeinhibition on diabetic nephropathy. New
+Engl]
+ Med  329:1456-1462, 1993
+23. Taylor SI, Cama A, Accili D, Barbetti F,Imano E, Kadowaki H, Kadowaki T: Ge-
+netic basis of endocrine disease. I. Molec-
+ular genetics of insulin resistant diabetes
+mellitus. ] Gin  Endocrinol Metab  73:1158-
+1163,1991
+24. Vionnet N, Stoffel M, Takeda  J, Yasuda K,
+Bell GI, Zouali H, Lesage S, Velho G, Iris
+F, Passa Ph, Froguel Ph, Cohen D: Non-
+sense mutation in the glucokinase gene
+causes early-onset non-insulin-depen-
+dent diabetes mellitus. Nature  356:721-
+722,1992
+25. Hattersley AT, Turner RC, Permutt MA,
+Patel P, Tanizawa Y, Chiu KC, O'Rahilly
+S, Watkins PJ, Wainscoat  JS: Linkage of
+type 2 diabetes to the glucokinase gene.
+Lancet  339:1307-1310, 1992
+26. Bell GI, Xiang K-S, Newman MV, Wu
+S-H, Wright LG, Fajans SS, Spielman RS,
+Cox NJ: Gene for non-insulin-dependent
+diabetes mellitus (maturity-onset diabe-tes of the young subtype) is linked to
+DNA polymorphism on human chromo-
+some 20q. Proc Natl Acad Sci USA 88:
+1484-1488, 1991
+27. Bowden DW, Akots G, Rothschild CB,
+Falls KF, Sheehy MJ, Hayward C, Mackie
+A, Baird J, Brock D, Antonarakis SE, Fa-
+jans SS: Linkage analysis of maturity-
+onset diabetes of the young (MODY): ge-
+netic heterogeneity and nonpenetrance.
+Am] Hum  Genet  50:607-618, 1992
+28. Eriksson K-F, Lindgarde F: Prevention of
+type 2 (non-insulin-dependent) diabetesmellitus by diet and physical exercise: the6-year  Malmo feasibility study.  Diabetolo-
+&a 34:891-898, 1991
+29. Tuomilehto J, Knowler WC, Zimmet P:
+Primary prevention of non- insulin-de-
+pendent diabetes mellitus.  Diabetes Metab
+Rev 8:339-353, 1992
+30. Knowler WC, McCance DR, Nagi DK,
+Pettitt DJ: Epidemiologic studies of the
+causes of non-insulin-dependent diabetes
+mellitus. In Causes of Diabetes. LeslieRDG, Ed. Sussex, England, Wiley, 1993,
+p.187-218
+31. Knowler WC, Pettitt DJ, Saad MF, Ben-
+nett PH: Diabetes mellitus in the Pima In-
+dians:  incidence, risk factors, and patho-
+genesis,  Diabetes Metab  Rev 6:1-27,1990
+32. Knowler WC, Saad MF, Pettitt DJ, Nelson
+RG, Bennett  PH: Determinants of diabetes
+mellitus in the Pima Indians. Diabetes
+Care 16:216-227, 1993
+33. National Institutes of Health:  Non-lnsulin-
+Dependent Diabetes Primary Prevention
+Trial. NIH Guide. Vol 22, no. 18. Be-
+thesda, Maryland, NIH, 1993
+34. Hanson RL, Nelson RG, McCance DR,
+Beart  JA, Charles MA, Pettitt DJ, Knowler
+WC: Comparison of screening tests for
+non-insulin-dependent diabetes mellitus.
+Arch  Intern  Med 153:2133-2140, 1993
+35. McCance DR, Hanson RL, Charles MA,
+Jacobsson LTH, Pettitt DJ, Bennett PH,
+Knowler WC: Should diagnostic criteria
+for diabetes be revised? A comparison of
+glycated haemoglobin, fasting, and two-
+hour plasma glucose and risk for micro-
+vascular complications.  Br Med].  In press
+450 DIABETES CARE, VOLUME 17, NUMBER 5, MAY 1994Downloaded from http://diabetesjournals.org/care/article-pdf/17/5/445/515857/17-5-445.pdf by guest on 28 May 2023
