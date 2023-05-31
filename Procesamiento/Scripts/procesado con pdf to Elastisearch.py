@@ -42,7 +42,7 @@ for archivo_txt in os.listdir(directorio_origen_txt):
         }
 
         # Indexar el documento en Elasticsearch con un ID único basado en el nombre del archivo PDF
-        index_name = "my_index"
+        index_name = "buscador"
         es.index(index=index_name, id=archivo_pdf, document=document)  # Actualiza con el nombre del índice adecuado
         print(f"Se ha indexado el archivo '{archivo_txt}' y su PDF correspondiente.")
 
