@@ -15,10 +15,11 @@ if %errorlevel% neq 0 (
 )
 
 echo Ejecutando procesado con pdf to Elastisearch.py
-python "procesado con pdf to Elastisearch.py"
+python "TXT to ElasticSearch.py"
 if %errorlevel% neq 0 (
     echo Error al ejecutar procesado con pdf to Elastisearch.py
     exit /b
 )
 
 echo Todos los scripts se han ejecutado correctamente.
+pause
