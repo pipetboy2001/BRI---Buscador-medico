@@ -22,7 +22,15 @@ export default {
   methods: {
     redirectToSearchPage() {
       if (this.searchQuery) {
-        this.$router.push(`/busqueda?q=${encodeURIComponent(this.searchQuery)}`);
+        const encodedQuery = encodeURIComponent(this.searchQuery);
+        console.log('Consulta de búsqueda:', encodedQuery);
+        
+        this.$router.push({
+          name: 'BusquedaPage',
+          query: {
+            q: encodedQuery,
+          },
+        });
       }
     },
   },

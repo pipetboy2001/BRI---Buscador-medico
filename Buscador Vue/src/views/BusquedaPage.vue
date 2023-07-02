@@ -55,6 +55,13 @@
 import axios from "axios";
 
 export default {
+  props: {
+    initialQuery: {
+      type: String,
+      default: '',
+    },
+  },
+
   data() {
     return {
       query: "",
@@ -63,9 +70,14 @@ export default {
       activeId: null, // ID del resultado activo en el acordeón
     };
   },
+  mounted() {
+    this.query = this.initialQuery;
+  },
 
   methods: {
     search() {
+      console.log('Consulta de búsqueda:', this.query);
+
       this.results = [];
       this.searchCompleted = false;
 

@@ -19,8 +19,10 @@ const routes = [
     {
         path: '/busqueda',
         name: 'BusquedaPage',
-        component: BusquedaPage
-    }
+        component: BusquedaPage,
+        props: (route) => ({ initialQuery: route.query.q }),
+    },
+
 ];
 
 const router = createRouter({
