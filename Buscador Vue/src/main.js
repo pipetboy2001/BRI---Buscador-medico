@@ -1,6 +1,7 @@
 import { createApp } from 'vue';
 import { createRouter, createWebHistory } from 'vue-router';
 import SearchPage from './views/SearchPage.vue';
+import MainPage from './views/MainPage.vue';
 import App from './App.vue';
 import { Client } from 'elasticsearch-browser';
 
@@ -11,7 +12,7 @@ const client = new Client({
 const routes = [
     {
         path: '/',
-        component: SearchPage,
+        component: MainPage,
     },
 ];
 
