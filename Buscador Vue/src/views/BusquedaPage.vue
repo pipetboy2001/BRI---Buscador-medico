@@ -14,11 +14,18 @@
           No se encontraron resultados.
         </div>
         <div v-else>
-          <div v-for="result in results" :key="result._id" class="result-card">
+          <div
+            v-for="result in results"
+            :key="result._id"
+            :class="{
+              'result-card': true,
+              active: result._id === selectedResultId,
+            }"
+          >
             <span
               class="nextPage"
               style="cursor: pointer"
-              @click="viewResult(result)"
+              @click="show = true"
             >
               <h3>{{ result._source.nombre }}</h3>
             </span>
@@ -33,11 +40,15 @@
               <span v-if="result._source.abstract.length > 100">
                 <span v-if="result._source.showFullAbstract">
                   {{ result._source.abstract }}
-                  <button @click="toggleAbstract(result)" class="btn-show-more">Mostrar menos</button>
+                  <button @click="toggleAbstract(result)" class="btn-show-more">
+                    Mostrar menos
+                  </button>
                 </span>
                 <span v-else>
                   {{ result._source.abstract.substring(0, 100) }}...
-                  <button @click="toggleAbstract(result)" class="btn-show-more">Mostrar más</button>
+                  <button @click="toggleAbstract(result)" class="btn-show-more">
+                    Mostrar más
+                  </button>
                 </span>
               </span>
               <span v-else>
@@ -49,18 +60,54 @@
       </div>
     </div>
   </div>
+
+  <MDBModal v-on:shown="setFocus" v-model="show">
+    <MDBModalBody>
+      
+      <h3>Hola aqui colocar texto</h3>
+
+      <!-- para cerrar el modal -->
+      <MDBBtn color="primary" @click="show = false">Cerrar</MDBBtn>
+    </MDBModalBody>
+  </MDBModal>
+
 </template>
 
 <script>
 import axios from "axios";
+import { MDBModal, MDBModalBody, MDBInput, MDBBtn } from 'mdb-vue-ui-kit';
+  import { ref } from 'vue'
 
 export default {
   props: {
     initialQuery: {
       type: String,
-      default: '',
+      default: "",
+    },
+    showModal: {
+      type: Boolean,
+      default: false,
     },
   },
+
+  components: {
+      MDBModal,
+      MDBModalBody,
+      MDBInput,
+      MDBBtn,
+    },
+    setup() {
+      const setFocus = () => {
+        const myInput = document.getElementById('myInput');
+        myInput.focus();
+      }
+      const show = ref(false);
+      return {
+        setFocus,
+        show,
+      };
+    },
+
 
   data() {
     return {
@@ -68,6 +115,8 @@ export default {
       results: [], // Los resultados de la búsqueda
       searchCompleted: false, // Indica si la búsqueda se ha completado
       activeId: null, // ID del resultado activo en el acordeón
+      selectedResultId: null, // ID del resultado seleccionado
+      modalVisible: false, // Variable local para controlar el estado del modal
     };
   },
 
@@ -81,7 +130,7 @@ export default {
 
   methods: {
     search() {
-      console.log('Consulta de búsqueda:', this.query);
+      console.log("Consulta de búsqueda:", this.query);
 
       this.results = [];
       this.searchCompleted = false;
@@ -114,10 +163,23 @@ export default {
         });
     },
     viewResult(result) {
-      // Lógica para redirigir a la página o realizar alguna acción adicional
+      this.selectedResultId = result._id;
+      console.log("Modal visible antes de cambiar a true:", this.modalVisible);
+      this.openModal();
+      console.log("Modal visible después de asignar true:", this.modalVisible);
     },
     toggleAbstract(result) {
       result._source.showFullAbstract = !result._source.showFullAbstract;
+    },
+    openModal() {
+      console.log("HOLLAAA:", this.modalVisible);
+      this.modalVisible = true;
+      console.log("CHAOOOO:", this.modalVisible);
+    },
+    closeModal() {
+      console.log("Modal visible antes de cerrar:", this.modalVisible);
+      this.modalVisible = false;
+      console.log("Modal visible después de cerrar:", this.modalVisible);
     },
   },
 };
@@ -158,5 +220,26 @@ export default {
 
 .btn-show-more {
   margin-left: 5px;
+}
+
+.modal {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #fff;
+  padding: 20px;
+  transition: opacity 0.3s;
+  opacity: 0;
+}
+
+.modal-enter-active,
+.modal-leave-active {
+  opacity: 1;
+}
+
+.modal-enter,
+.modal-leave-to {
+  opacity: 0;
 }
 </style>

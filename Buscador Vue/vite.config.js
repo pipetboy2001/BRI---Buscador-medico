@@ -4,6 +4,9 @@ import { createServer } from 'vite'
 
 export default defineConfig({
   plugins: [vue()],
+  css: {
+    devSourcemap: true,
+  },
   server: {
     proxy: {
       '/elasticsearch': {

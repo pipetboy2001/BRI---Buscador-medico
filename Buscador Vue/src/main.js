@@ -2,6 +2,7 @@ import { createApp } from 'vue';
 import { createRouter, createWebHistory } from 'vue-router';
 import App from './App.vue';
 import { Client } from 'elasticsearch-browser';
+import 'mdb-vue-ui-kit/css/mdb.min.css';
 
 import MainPage from './views/MainPage.vue';
 import BusquedaPage from './views/BusquedaPage.vue'
