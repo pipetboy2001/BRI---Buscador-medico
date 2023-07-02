@@ -1,9 +1,11 @@
 import { createApp } from 'vue';
 import { createRouter, createWebHistory } from 'vue-router';
-import SearchPage from './views/SearchPage.vue';
-import MainPage from './views/MainPage.vue';
 import App from './App.vue';
 import { Client } from 'elasticsearch-browser';
+
+import MainPage from './views/MainPage.vue';
+import BusquedaPage from './views/BusquedaPage.vue'
+
 
 const client = new Client({
     node: 'http://localhost:9200', // Reemplaza con la URL de tu servidor Elasticsearch
@@ -14,6 +16,11 @@ const routes = [
         path: '/',
         component: MainPage,
     },
+    {
+        path: '/busqueda',
+        name: 'BusquedaPage',
+        component: BusquedaPage
+    }
 ];
 
 const router = createRouter({

@@ -49,7 +49,8 @@ export default {
       this.searchCompleted = false;
 
       axios
-        .get('http://localhost:9300/buscador/_search', {
+        // editar según la dirección de su servidor Elasticsearch
+        .get('http://localhost:9200/buscador/_search', {
           params: {
             q: `contenido:"${this.query}"`, // Búsqueda por el término ingresado en el campo de búsqueda
           },
