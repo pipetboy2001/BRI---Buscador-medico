@@ -42,7 +42,8 @@ for archivo_txt in os.listdir(directorio_origen_txt):
         # Obtener los valores de las columnas requeridas y convertirlos a cadena de texto
         revista = str(fila_encontrada['Revista']) if 'Revista' in df_excel.columns else ""
         autores = str(fila_encontrada['Autor/es']) if 'Autor/es' in df_excel.columns else ""
-        anio = int(fila_encontrada['Año']) if ('Año' in df_excel.columns and not math.isnan(fila_encontrada['Año'])) else 0
+        año = str(int(fila_encontrada['Año'])) if 'Año' in df_excel.columns and not math.isnan(
+            fila_encontrada['Año']) else ""
         abstract = str(fila_encontrada['Abstract']) if 'Abstract' in df_excel.columns else ""
         keywords = str(fila_encontrada['Keywords']) if 'Keywords' in df_excel.columns else ""
         idioma = str(fila_encontrada['Idioma']) if 'Idioma' in df_excel.columns else ""
@@ -60,7 +61,7 @@ for archivo_txt in os.listdir(directorio_origen_txt):
         
         # Crear el documento a indexar en Elasticsearch
         document = {
-            'nombre': nombre_archivo,
+            'nombre': archivo_excel,
             'contenido': contenido,
             'pdf_base64': contenido_pdf_base64,
             'revista': revista,
@@ -68,7 +69,8 @@ for archivo_txt in os.listdir(directorio_origen_txt):
             'abstract': abstract,
             'keywords': keywords,
             'idioma': idioma,
-            'url': url
+            'url': url,
+            'año': año
         }
 
         # Indexar el documento en Elasticsearch con un ID único basado en el nombre del archivo PDF

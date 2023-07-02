@@ -11,7 +11,7 @@
             <h3>{{ result._source.nombre }}</h3>
             <p>Revista: {{ result._source.revista }}</p>
             <p>Autor/es: {{ result._source.autores }}</p>
-            <p>Año: {{ result._source.anio }}</p>
+            <p>Año: {{ result._source.año }}</p>
             <p>Keywords: {{ result._source.keywords }}</p>
             <p>Idioma: {{ result._source.idioma }}</p>
           </div>
@@ -68,7 +68,7 @@ export default {
 };
 </script>
 
-<style scoped>
+<style>
 .text-center {
   text-align: center;
 }
@@ -97,3 +97,4 @@ export default {
   font-size: 14px;
   margin-bottom: 3px;
 }
+</style>
