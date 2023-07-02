@@ -70,8 +70,13 @@ export default {
       activeId: null, // ID del resultado activo en el acordeón
     };
   },
-  mounted() {
-    this.query = this.initialQuery;
+
+  created() {
+    // Realizar búsqueda automáticamente cuando se carga el componente
+    if (this.initialQuery) {
+      this.query = this.initialQuery;
+      this.search();
+    }
   },
 
   methods: {
