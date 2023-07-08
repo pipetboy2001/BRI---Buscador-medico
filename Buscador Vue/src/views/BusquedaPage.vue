@@ -8,6 +8,7 @@
           v-model="query"
           class="form-control"
           placeholder="Ingresa tu consulta de búsqueda"
+          id="myInput"
         />
         <button @click="search" class="btn btn-primary mt-3">Buscar</button>
         <div v-if="results.length === 0 && searchCompleted" class="mt-3">
@@ -25,7 +26,7 @@
             <span
               class="nextPage"
               style="cursor: pointer"
-              @click="show = true"
+              @click="viewResult(result)"
             >
               <h3>{{ result._source.nombre }}</h3>
             </span>
@@ -62,14 +63,13 @@
   </div>
 
   <MDBModal v-on:shown="setFocus" v-model="show">
-    <MDBModalBody>
-      
-      <h3>Hola aqui colocar texto</h3>
-
-      <!-- para cerrar el modal -->
-      <MDBBtn color="primary" @click="show = false">Cerrar</MDBBtn>
-    </MDBModalBody>
-  </MDBModal>
+  <MDBModalBody>
+    <h3>Vista previa</h3>
+    <iframe :src="'data:application/pdf;base64,' + selectedResult " style="width: 100%; height: 500px;"></iframe>
+    <!-- Resto del contenido del modal -->
+    <MDBBtn color="primary" @click="show = false">Cerrar</MDBBtn>
+  </MDBModalBody>
+</MDBModal>
 
 </template>
 
@@ -117,6 +117,7 @@ export default {
       activeId: null, // ID del resultado activo en el acordeón
       selectedResultId: null, // ID del resultado seleccionado
       modalVisible: false, // Variable local para controlar el estado del modal
+      selectedResult: null,
     };
   },
 
@@ -164,9 +165,12 @@ export default {
     },
     viewResult(result) {
       this.selectedResultId = result._id;
-      console.log("Modal visible antes de cambiar a true:", this.modalVisible);
-      this.openModal();
-      console.log("Modal visible después de asignar true:", this.modalVisible);
+      this.selectedResultId = result._id;
+      console.log("ID del resultado seleccionado:", this.selectedResultId);
+      this.selectedResult = result._source.pdf_base64;
+      console.log("Modal visible antes de cambiar a true:", this.show);
+      this.show = true; // Abre el modal estableciendo la variable "show" en "true"
+      console.log("Modal visible después de asignar true:", this.show);
     },
     toggleAbstract(result) {
       result._source.showFullAbstract = !result._source.showFullAbstract;
