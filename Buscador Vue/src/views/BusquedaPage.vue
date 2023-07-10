@@ -56,10 +56,11 @@
                   <img
                     src="./../assets/Bandera_de_España.svg"
                     alt="Spanish Flag"
+                    width="20"
                   />
                 </span>
                 <span class="language-flag" v-else>
-                  <img src="bandera-generic.png" alt="Generic Flag" />
+                  <img src="bandera-generic.png" alt="Generic Flag" width="20" />
                 </span>
               </p>
             </div>

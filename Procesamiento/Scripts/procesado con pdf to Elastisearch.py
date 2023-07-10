@@ -40,38 +40,49 @@ for archivo_txt in os.listdir(directorio_origen_txt):
         fila_encontrada = df_excel[filtro].iloc[0]  # Obtener la primera fila que cumple con el filtro
 
         # Obtener los valores de las columnas requeridas y convertirlos a cadena de texto
-        revista = str(fila_encontrada['Revista']) if 'Revista' in df_excel.columns else ""
-        autores = str(fila_encontrada['Autor/es']) if 'Autor/es' in df_excel.columns else ""
-        año = str(int(fila_encontrada['Año'])) if 'Año' in df_excel.columns and not math.isnan(
-            fila_encontrada['Año']) else ""
-        abstract = str(fila_encontrada['Abstract']) if 'Abstract' in df_excel.columns else ""
-        keywords = str(fila_encontrada['Keywords']) if 'Keywords' in df_excel.columns else ""
-        idioma = str(fila_encontrada['Idioma']) if 'Idioma' in df_excel.columns else ""
-        url = str(fila_encontrada['URL']) if 'URL' in df_excel.columns else ""
+        if len(df_excel[filtro]) > 0:
+            fila_encontrada = df_excel[filtro].iloc[0]  # Obtener la primera fila que cumple con el filtro
 
-        # Verificar si el archivo PDF existe
-        if not os.path.exists(os.path.join(directorio_origen_pdf, archivo_pdf)):
-            print(f"No se encontró el archivo PDF correspondiente para '{archivo_txt}'. Continuando con la indexación.")
-            continue
-        
-        # Leer el archivo PDF y convertirlo a base64
-        with open(os.path.join(directorio_origen_pdf, archivo_pdf), 'rb') as file:
-            contenido_pdf = file.read()
-            contenido_pdf_base64 = base64.b64encode(contenido_pdf).decode('utf-8')
-        
-        # Crear el documento a indexar en Elasticsearch
-        document = {
-            'nombre': archivo_excel,
-            'contenido': contenido,
-            'pdf_base64': contenido_pdf_base64,
-            'revista': revista,
-            'autores': autores,
-            'abstract': abstract,
-            'keywords': keywords,
-            'idioma': idioma,
-            'url': url,
-            'año': año
-        }
+            # Obtener los valores de las columnas requeridas y convertirlos a cadena de texto
+            revista = str(fila_encontrada['Revista']) if 'Revista' in df_excel.columns else ""
+            autores = str(fila_encontrada['Autor/es']) if 'Autor/es' in df_excel.columns else ""
+            año = str(int(fila_encontrada['Año'])) if 'Año' in df_excel.columns and not math.isnan(
+                fila_encontrada['Año']) else ""
+            abstract = str(fila_encontrada['Abstract']) if 'Abstract' in df_excel.columns else ""
+            keywords = str(fila_encontrada['Keywords']) if 'Keywords' in df_excel.columns else ""
+            idioma = str(fila_encontrada['Idioma']) if 'Idioma' in df_excel.columns else ""
+            url = str(fila_encontrada['URL']) if 'URL' in df_excel.columns else ""
+
+            # Verificar si el archivo PDF existe
+            if not os.path.exists(os.path.join(directorio_origen_pdf, archivo_pdf)):
+                print(
+                    f"No se encontró el archivo PDF correspondiente para '{archivo_txt}'. Continuando con la indexación.")
+                continue
+
+            # Leer el archivo PDF y convertirlo a base64
+            with open(os.path.join(directorio_origen_pdf, archivo_pdf), 'rb') as file:
+                contenido_pdf = file.read()
+                contenido_pdf_base64 = base64.b64encode(contenido_pdf).decode('utf-8')
+
+            # Crear el documento a indexar en Elasticsearch
+            document = {
+                'nombre': archivo_excel,
+                'contenido': contenido,
+                'pdf_base64': contenido_pdf_base64,
+                'revista': revista,
+                'autores': autores,
+                'abstract': abstract,
+                'keywords': keywords,
+                'idioma': idioma,
+                'url': url,
+                'año': año
+            }
+            # Indexar el documento en Elasticsearch con un ID único basado en el nombre del archivo PDF
+            index_name = "buscador"
+            es.index(index=index_name, id=archivo_pdf, document=document)  # Actualiza con el nombre del índice adecuado
+            print(f"Se ha indexado el archivo '{archivo_txt}' y su PDF correspondiente.")
+        else:
+            print(f"No se encontró la fila correspondiente a '{archivo_txt}' en el archivo Excel.")
 
         # Indexar el documento en Elasticsearch con un ID único basado en el nombre del archivo PDF
         index_name = "buscador"
