@@ -16,6 +16,7 @@
         </div>
         <div v-else>
           <div
+            class="result-card"
             v-for="result in results"
             :key="result._id"
             :class="{
@@ -23,39 +24,74 @@
               active: result._id === selectedResultId,
             }"
           >
-            <span
-              class="nextPage"
-              style="cursor: pointer"
-              @click="viewResult(result)"
-            >
-              <h3>{{ result._source.nombre }}</h3>
-            </span>
+            <div class="title-info">
+              <span
+                class="nextPage"
+                style="cursor: pointer"
+                @click="viewResult(result)"
+              >
+                <h3 style="color: #4b30b3">{{ result._source.nombre }}</h3>
+              </span>
+            </div>
 
-            <p>Revista: {{ result._source.revista }}</p>
-            <p>Autor/es: {{ result._source.autores }}</p>
-            <p>Año: {{ result._source.año }}</p>
-            <p>Keywords: {{ result._source.keywords }}</p>
-            <p>Idioma: {{ result._source.idioma }}</p>
-            <p>
-              Abstract:
-              <span v-if="result._source.abstract.length > 100">
-                <span v-if="result._source.showFullAbstract">
-                  {{ result._source.abstract }}
-                  <button @click="toggleAbstract(result)" class="btn-show-more">
-                    Mostrar menos
-                  </button>
+            <p class="authors">{{ result._source.autores }}</p>
+
+            <div class="metadata">
+              <p class="year-journal">
+                {{ result._source.año }} | {{ result._source.revista }}
+                <span
+                  class="language-flag"
+                  v-if="result._source.idioma === 'EN'"
+                >
+                  <img
+                    src="./../assets/Flag_of_the_United_Kingdom.svg"
+                    alt="English Flag"
+                    width="20"
+                  />
+                </span>
+                <span
+                  class="language-flag"
+                  v-else-if="result._source.idioma === 'ES'"
+                >
+                  <img
+                    src="./../assets/Bandera_de_España.svg"
+                    alt="Spanish Flag"
+                  />
+                </span>
+                <span class="language-flag" v-else>
+                  <img src="bandera-generic.png" alt="Generic Flag" />
+                </span>
+              </p>
+            </div>
+            <p class="keywords">Keywords: {{ result._source.keywords }}</p>
+            <div class="abstract">
+              <p>
+                Abstract:
+                <span v-if="result._source.abstract.length > 100">
+                  <span v-if="result._source.showFullAbstract">
+                    {{ result._source.abstract }}
+                    <button
+                      @click="toggleAbstract(result)"
+                      class="btn-show-more"
+                    >
+                      Mostrar menos
+                    </button>
+                  </span>
+                  <span v-else>
+                    {{ result._source.abstract.substring(0, 100) }}...
+                    <button
+                      @click="toggleAbstract(result)"
+                      class="btn-show-more"
+                    >
+                      Mostrar más
+                    </button>
+                  </span>
                 </span>
                 <span v-else>
-                  {{ result._source.abstract.substring(0, 100) }}...
-                  <button @click="toggleAbstract(result)" class="btn-show-more">
-                    Mostrar más
-                  </button>
+                  {{ result._source.abstract }}
                 </span>
-              </span>
-              <span v-else>
-                {{ result._source.abstract }}
-              </span>
-            </p>
+              </p>
+            </div>
           </div>
         </div>
       </div>
@@ -63,20 +99,22 @@
   </div>
 
   <MDBModal v-on:shown="setFocus" v-model="show">
-  <MDBModalBody>
-    <h3>Vista previa</h3>
-    <iframe :src="'data:application/pdf;base64,' + selectedResult " style="width: 100%; height: 500px;"></iframe>
-    <!-- Resto del contenido del modal -->
-    <MDBBtn color="primary" @click="show = false">Cerrar</MDBBtn>
-  </MDBModalBody>
-</MDBModal>
-
+    <MDBModalBody>
+      <h3>Vista previa</h3>
+      <iframe
+        :src="'data:application/pdf;base64,' + selectedResult"
+        style="width: 100%; height: 500px"
+      ></iframe>
+      <!-- Resto del contenido del modal -->
+      <MDBBtn color="primary" @click="show = false">Cerrar</MDBBtn>
+    </MDBModalBody>
+  </MDBModal>
 </template>
 
 <script>
 import axios from "axios";
-import { MDBModal, MDBModalBody, MDBInput, MDBBtn } from 'mdb-vue-ui-kit';
-  import { ref } from 'vue'
+import { MDBModal, MDBModalBody, MDBInput, MDBBtn } from "mdb-vue-ui-kit";
+import { ref } from "vue";
 
 export default {
   props: {
@@ -91,23 +129,22 @@ export default {
   },
 
   components: {
-      MDBModal,
-      MDBModalBody,
-      MDBInput,
-      MDBBtn,
-    },
-    setup() {
-      const setFocus = () => {
-        const myInput = document.getElementById('myInput');
-        myInput.focus();
-      }
-      const show = ref(false);
-      return {
-        setFocus,
-        show,
-      };
-    },
-
+    MDBModal,
+    MDBModalBody,
+    MDBInput,
+    MDBBtn,
+  },
+  setup() {
+    const setFocus = () => {
+      const myInput = document.getElementById("myInput");
+      myInput.focus();
+    };
+    const show = ref(false);
+    return {
+      setFocus,
+      show,
+    };
+  },
 
   data() {
     return {
@@ -190,6 +227,10 @@ export default {
 </script>
 
 <style>
+body {
+    background-color: #f5f5f5;
+  }
+
 .text-center {
   text-align: center;
 }
@@ -203,9 +244,43 @@ export default {
 }
 
 .result-card {
-  border: 1px solid #ccc;
-  padding: 10px;
+  display: flex;
+    flex-direction: column;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 4px;
+    background-color: #ffffff;
+}
+
+.title-info {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
   margin-bottom: 10px;
+}
+
+.language {
+  margin-left: 10px;
+}
+
+.metadata {
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.metadata p {
+  margin-right: 10px;
+}
+
+.keywords {
+  margin-bottom: 10px;
+}
+
+.abstract {
+  border-top: 1px solid #ccc;
+  padding-top: 10px;
 }
 
 .result-card h3 {
