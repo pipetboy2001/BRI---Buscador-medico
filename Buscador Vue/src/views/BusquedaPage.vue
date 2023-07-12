@@ -1,16 +1,56 @@
 <template>
   <div>
-    <h1 class="text-center mt-5">Resultados de búsqueda</h1>
-    <div class="row justify-content-center mt-5">
-      <div class="col-lg-6 col-md-8 col-sm-10">
+    <router-link :to="`/`" class="text-center mt-5">
+      <h1>Resultados de búsqueda</h1>
+    </router-link>
+    <div class="row mt-5">
+      <div class="col-lg-2 col-md-3 col-sm-4">
+        <div class="filters">
+          <h3>Filtros</h3>
+          <div>
+            <label>
+              <input type="checkbox" v-model="filters.abstract" /> Abstract
+            </label>
+          </div>
+          <div>
+            <label>
+              <input type="checkbox" v-model="filters.libro" /> Libro
+            </label>
+          </div>
+          <div>
+            <label>
+              <input type="checkbox" v-model="filters.articulo" /> Artículo
+            </label>
+          </div>
+          <div>
+            <label>
+              <input type="checkbox" v-model="filters.guiaClinica" /> Guía Clínica
+            </label>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-10 col-md-9 col-sm-8">
         <input
           type="text"
           v-model="query"
           class="form-control"
           placeholder="Ingresa tu consulta de búsqueda"
           id="myInput"
+          @keyup.enter="search"
         />
         <button @click="search" class="btn btn-primary mt-3">Buscar</button>
+        <button
+          @click="sortByNewest"
+          :class="{ 'btn btn-primary': sortBy === 'newest', 'btn btn-secondary': sortBy !== 'newest' }"
+        >
+          Más nuevos
+        </button>
+        <button
+          @click="sortByOldest"
+          :class="{ 'btn btn-primary': sortBy === 'oldest', 'btn btn-secondary': sortBy !== 'oldest' }"
+        >
+          Más antiguos
+        </button>
         <div v-if="results.length === 0 && searchCompleted" class="mt-3">
           No se encontraron resultados.
         </div>
@@ -33,9 +73,7 @@
                 <h3 style="color: #4b30b3">{{ result._source.nombre }}</h3>
               </span>
             </div>
-
             <p class="authors">{{ result._source.autores }}</p>
-
             <div class="metadata">
               <p class="year-journal">
                 {{ result._source.año }} | {{ result._source.revista }}
@@ -104,7 +142,7 @@
       <h3>Vista previa</h3>
       <iframe
         :src="'data:application/pdf;base64,' + selectedResult"
-        style="width: 100%; height: 500px"
+        style="width: 100%; height: 700px"
       ></iframe>
       <!-- Resto del contenido del modal -->
       <MDBBtn color="primary" @click="show = false">Cerrar</MDBBtn>
@@ -149,7 +187,13 @@ export default {
 
   data() {
     return {
-      query: "",
+      query: '',
+      filters: {
+        abstract: false,
+        libro: false,
+        articulo: false,
+        guiaClinica: false,
+      },
       results: [], // Los resultados de la búsqueda
       searchCompleted: false, // Indica si la búsqueda se ha completado
       activeId: null, // ID del resultado activo en el acordeón
@@ -229,8 +273,8 @@ export default {
 
 <style>
 body {
-    background-color: #f5f5f5;
-  }
+  background-color: #f5f5f5;
+}
 
 .text-center {
   text-align: center;
@@ -246,13 +290,13 @@ body {
 
 .result-card {
   display: flex;
-    flex-direction: column;
-    border: 1px solid #ccc;
-    padding: 10px;
-    margin-bottom: 10px;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    border-radius: 4px;
-    background-color: #ffffff;
+  flex-direction: column;
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 4px;
+  background-color: #ffffff;
 }
 
 .title-info {
@@ -321,5 +365,23 @@ body {
 .modal-enter,
 .modal-leave-to {
   opacity: 0;
+}
+
+.filters {
+    position: sticky;
+    top: 20px;
+    height: calc(100vh - 40px);
+    overflow-y: auto;
+    padding-right: 10px;
+    margin-left: 20px; /* Agrega el margen izquierdo aquí */
+  }
+
+
+.filters h3 {
+  margin-bottom: 10px;
+}
+
+.filters div {
+  margin-bottom: 5px;
 }
 </style>
